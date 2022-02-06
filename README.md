@@ -6,5 +6,5 @@
 - 📫 How to reach me: Twitter, LinkedIn, Discord...
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=kabir0x17&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=kabir0x17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
 />
