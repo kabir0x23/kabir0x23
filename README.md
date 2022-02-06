@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I am Kabir, Cyber 
+##### I am Kabir,
 - 🔭 I’m currently working on @thecyberworld.
 - 🌱 I’m currently learning MERN Stack.
 - 💬 Ask me about cyber-security, web development and programming
