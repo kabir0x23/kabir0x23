@@ -1,4 +1,3 @@
-# file .github/workflows/activity.yml
 name: Update README
 
 on:
@@ -6,16 +5,12 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
-            
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
-      - uses: kabir0x17/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
- 
