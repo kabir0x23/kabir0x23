@@ -16,5 +16,8 @@
 <!--END_SECTION:activity-->
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
+- [Websites for Learning and Practicing Hacking](https://www.youtube.com/watch?v=fAGc5C_9kiI)
+- [Youtube channels for Hackers](https://www.youtube.com/watch?v=uTVJv4NEydM)
+- [1.  Finding target + subdomains  [bug hunting series]](https://www.youtube.com/watch?v=dZNCjmaLei4)
+- [Finding directories in the website with the ffuf](https://www.youtube.com/watch?v=NYoTBMK_gik)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
