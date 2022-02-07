@@ -9,12 +9,15 @@
    src="https://github-readme-stats.vercel.app/api?username=kabir0x17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
 />
 
+---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+ 
 <!--END_SECTION:activity-->
 
+---
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Websites for Learning and Practicing Hacking](https://www.youtube.com/watch?v=fAGc5C_9kiI)
 - [Youtube channels for Hackers](https://www.youtube.com/watch?v=uTVJv4NEydM)
