@@ -14,3 +14,7 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
