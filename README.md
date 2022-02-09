@@ -24,7 +24,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1974](https://github.com/remy/nodemon/issues/1974) in [remy/nodemon](https://github.com/remy/nodemon)
+1. 🎉 Merged PR [#1](https://github.com/thecyberworld/thecyberworld/pull/1) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
 <!--END_SECTION:activity-->
 
 ---
