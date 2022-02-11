@@ -24,11 +24,12 @@
 <!--END_SECTION:activity-->
 
 ---
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=kabir0x17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x17&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+<p align="center">
+	
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x17&count_private=true&theme=radical&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x17&theme=radical&count_private=true" />
 </p>
+
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=kabir0x17&theme=xcode">
+ <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x17&theme=xcode">
 </p>  
