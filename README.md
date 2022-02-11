@@ -38,7 +38,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/thecyberworld/thecyberworld/pull/1) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+1. ❗️ Opened issue [#1021](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1021) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 ---
