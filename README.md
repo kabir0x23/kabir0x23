@@ -27,6 +27,11 @@
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Add your name in the Terminal](https://www.youtube.com/watch?v=pVGW-wuBhhY)
+- [CTF Websites for beginners for learning and Practicing hacking](https://www.youtube.com/watch?v=FPa6yKMrvjw)
+- [File System Commands](https://www.youtube.com/watch?v=ONUk5S6_QwM)
+- [Websites for Learning and Practicing Hacking](https://www.youtube.com/watch?v=fAGc5C_9kiI)
+- [Youtube channels for Hackers](https://www.youtube.com/watch?v=uTVJv4NEydM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
