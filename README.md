@@ -38,11 +38,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/infotechprogrammer/infotechprogrammer/pull/2) in [infotechprogrammer/infotechprogrammer](https://github.com/infotechprogrammer/infotechprogrammer)
-2. ❗️ Opened issue [#1](https://github.com/infotechprogrammer/infotechprogrammer/issues/1) in [infotechprogrammer/infotechprogrammer](https://github.com/infotechprogrammer/infotechprogrammer)
-3. 💪 Opened PR [#1022](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1022) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#1021](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1021) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#1](https://github.com/thecyberworld/thecyberworld/pull/1) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+1. 🎉 Merged PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+2. ❗️ Closed issue [#6](https://github.com/thecyberworld/.github/issues/6) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+3. 💪 Opened PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+4. ❗️ Opened issue [#6](https://github.com/thecyberworld/.github/issues/6) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+5. 🎉 Merged PR [#5](https://github.com/thecyberworld/.github/pull/5) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
 <!--END_SECTION:activity-->
 
 ---
