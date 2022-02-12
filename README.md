@@ -38,7 +38,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1022](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1022) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#2](https://github.com/infotechprogrammer/infotechprogrammer/pull/2) in [infotechprogrammer/infotechprogrammer](https://github.com/infotechprogrammer/infotechprogrammer)
 <!--END_SECTION:activity-->
 
 ---
