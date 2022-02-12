@@ -33,6 +33,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/infotechprogrammer/infotechprogrammer/pull/2) in [infotechprogrammer/infotechprogrammer](https://github.com/infotechprogrammer/infotechprogrammer)
+2. ❗️ Opened issue [#1](https://github.com/infotechprogrammer/infotechprogrammer/issues/1) in [infotechprogrammer/infotechprogrammer](https://github.com/infotechprogrammer/infotechprogrammer)
+3. 💪 Opened PR [#1022](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1022) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. ❗️ Opened issue [#1021](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1021) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#1](https://github.com/thecyberworld/thecyberworld/pull/1) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
 <!--END_SECTION:activity-->
 
 ---
