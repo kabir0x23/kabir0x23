@@ -38,11 +38,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
-2. ❗️ Closed issue [#6](https://github.com/thecyberworld/.github/issues/6) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
-3. 💪 Opened PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
-4. ❗️ Opened issue [#6](https://github.com/thecyberworld/.github/issues/6) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
-5. 🎉 Merged PR [#5](https://github.com/thecyberworld/.github/pull/5) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+1. ❗️ Closed issue [#47](https://github.com/adrianhajdin/project_e_commerce/issues/47) in [adrianhajdin/project_e_commerce](https://github.com/adrianhajdin/project_e_commerce)
+2. 🎉 Merged PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+3. ❗️ Closed issue [#6](https://github.com/thecyberworld/.github/issues/6) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+4. 💪 Opened PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+5. ❗️ Opened issue [#6](https://github.com/thecyberworld/.github/issues/6) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
 <!--END_SECTION:activity-->
 
 ---
