@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on @thecyberworld.
 - 🌱 I’m currently learning MERN Stack.
 - 💬 Ask me about cyber-security, web development and programming.
-- 🥅  My Goal for the coming months is to contribute more to open source.
+- 🥅 My Goal for the coming months is to contribute more to open source.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x17), LinkedIn, Discord.
 - ⚡ Fun fact: I love to Hack.
 
@@ -18,7 +18,6 @@
 ---
 
 <p align="center">
-	
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x17&count_private=true&theme=dark&show_icons=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x17&theme=dark&count_private=true" />
 </p>
