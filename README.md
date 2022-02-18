@@ -37,11 +37,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3559](https://github.com/EddieHubCommunity/support/issues/3559) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#2](https://github.com/kabir0x17/ecommerce-web-shop/pull/2) in [kabir0x17/ecommerce-web-shop](https://github.com/kabir0x17/ecommerce-web-shop)
-3. 🎉 Merged PR [#1](https://github.com/kabir0x17/ecommerce-web-shop/pull/1) in [kabir0x17/ecommerce-web-shop](https://github.com/kabir0x17/ecommerce-web-shop)
-4. ❗️ Closed issue [#47](https://github.com/adrianhajdin/project_e_commerce/issues/47) in [adrianhajdin/project_e_commerce](https://github.com/adrianhajdin/project_e_commerce)
-5. 🎉 Merged PR [#7](https://github.com/thecyberworld/.github/pull/7) in [thecyberworld/.github](https://github.com/thecyberworld/.github)
+1. 🎉 Merged PR [#1](https://github.com/kabir0x17/leetcode-solutions/pull/1) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
+2. 💪 Opened PR [#1](https://github.com/kabir0x17/leetcode-solutions/pull/1) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
+3. ❗️ Opened issue [#3559](https://github.com/EddieHubCommunity/support/issues/3559) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#2](https://github.com/kabir0x17/ecommerce-web-shop/pull/2) in [kabir0x17/ecommerce-web-shop](https://github.com/kabir0x17/ecommerce-web-shop)
+5. 🎉 Merged PR [#1](https://github.com/kabir0x17/ecommerce-web-shop/pull/1) in [kabir0x17/ecommerce-web-shop](https://github.com/kabir0x17/ecommerce-web-shop)
 <!--END_SECTION:activity-->
 
 ---
