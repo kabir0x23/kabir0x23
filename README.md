@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 👨‍💻 I am Kabir.
-- 🔭 I’m currently working on @thecyberworld.
-- 🌱 I’m currently learning MERN Stack.
-- 💬 Ask me about cyber-security, web development and programming.
+- 🔭 I’m Founder of @thecyberworld.
+- 🌱 I’m currently learning DevOps and MERN Stack.
+- 💬 Ask me about cyber-security, devops, web-development and programming.
 - 🥅 My Goal for the coming months is to contribute more to open source.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x17), LinkedIn, Discord.
 - ⚡ Fun fact: I love to Hack.
