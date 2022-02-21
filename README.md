@@ -15,12 +15,6 @@
 <br />
 <br />
  -->
----
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x17&count_private=true&theme=dark&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x17&theme=dark&count_private=true" />
-</p>
 
 ---
 
@@ -43,6 +37,13 @@
 4. ❗️ Opened issue [#3559](https://github.com/EddieHubCommunity/support/issues/3559) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 5. 🎉 Merged PR [#2](https://github.com/kabir0x17/ecommerce-web-shop/pull/2) in [kabir0x17/ecommerce-web-shop](https://github.com/kabir0x17/ecommerce-web-shop)
 <!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x17&count_private=true&theme=dark&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x17&theme=dark&count_private=true" />
+</p>
 
 ---
 
