@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kabir0x17/Python-101/pull/1) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
-2. 💪 Opened PR [#1](https://github.com/kabir0x17/Python-101/pull/1) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
-3. 🗣 Commented on [#3559](https://github.com/EddieHubCommunity/support/issues/3559) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1](https://github.com/kabir0x17/leetcode-solutions/pull/1) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
-5. 💪 Opened PR [#1](https://github.com/kabir0x17/leetcode-solutions/pull/1) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
+1. 🎉 Merged PR [#2](https://github.com/kabir0x17/Python-101/pull/2) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
+2. 💪 Opened PR [#2](https://github.com/kabir0x17/Python-101/pull/2) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
+3. 🎉 Merged PR [#1](https://github.com/kabir0x17/Python-101/pull/1) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
+4. 💪 Opened PR [#1](https://github.com/kabir0x17/Python-101/pull/1) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
+5. 🗣 Commented on [#3559](https://github.com/EddieHubCommunity/support/issues/3559) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
