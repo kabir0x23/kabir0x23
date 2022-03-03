@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DevOps and MERN Stack.
 - 💬 Ask me about cyber-security, devops, web-development and programming.
 - 🥅 My Goal for the coming months is to contribute more to open source.
-- 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](Linkedin.com/in/kabir0x23/), Discord.
+- 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](https://Linkedin.com/in/kabir0x23/), Discord.
 - ⚡ Fun fact: I love to Hack.
 
 <!-- --- -->
