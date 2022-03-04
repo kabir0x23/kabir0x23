@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kabir0x17/leetcode-solutions/pull/2) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
-2. 💪 Opened PR [#2](https://github.com/kabir0x17/leetcode-solutions/pull/2) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
-3. 🎉 Merged PR [#5](https://github.com/kabir0x17/github-slideshow/pull/5) in [kabir0x17/github-slideshow](https://github.com/kabir0x17/github-slideshow)
-4. 🎉 Merged PR [#2](https://github.com/kabir0x17/Python-101/pull/2) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
-5. 💪 Opened PR [#2](https://github.com/kabir0x17/Python-101/pull/2) in [kabir0x17/Python-101](https://github.com/kabir0x17/Python-101)
+1. ❗️ Opened issue [#2](https://github.com/kabir0x23/portfolio/issues/2) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+2. 🎉 Merged PR [#1](https://github.com/kabir0x23/portfolio/pull/1) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+3. 💪 Opened PR [#1](https://github.com/kabir0x23/portfolio/pull/1) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+4. 🎉 Merged PR [#2](https://github.com/kabir0x17/leetcode-solutions/pull/2) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
+5. 💪 Opened PR [#2](https://github.com/kabir0x17/leetcode-solutions/pull/2) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
 <!--END_SECTION:activity-->
 
 ---
