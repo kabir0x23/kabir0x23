@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/kabir0x23/portfolio/issues/2) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-2. 🎉 Merged PR [#1](https://github.com/kabir0x23/portfolio/pull/1) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-3. 💪 Opened PR [#1](https://github.com/kabir0x23/portfolio/pull/1) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-4. 🎉 Merged PR [#2](https://github.com/kabir0x17/leetcode-solutions/pull/2) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
-5. 💪 Opened PR [#2](https://github.com/kabir0x17/leetcode-solutions/pull/2) in [kabir0x17/leetcode-solutions](https://github.com/kabir0x17/leetcode-solutions)
+1. ❗️ Closed issue [#2](https://github.com/kabir0x23/portfolio/issues/2) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+2. 🎉 Merged PR [#3](https://github.com/kabir0x23/portfolio/pull/3) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+3. 💪 Opened PR [#3](https://github.com/kabir0x23/portfolio/pull/3) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+4. 🎉 Merged PR [#1](https://github.com/kabir0x23/movie-land/pull/1) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+5. 💪 Opened PR [#1](https://github.com/kabir0x23/movie-land/pull/1) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
 <!--END_SECTION:activity-->
 
 ---
