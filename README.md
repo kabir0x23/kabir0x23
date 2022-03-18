@@ -6,7 +6,7 @@
 - 🥅 My Goal for the coming months is to contribute more to open source.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](https://Linkedin.com/in/kabir0x23/), Discord.
 - ⚡ Fun fact: I love to Hack.
-
+ 
 <!-- --- -->
 <!-- ## 🤝 Connect with me:
 
@@ -48,6 +48,6 @@
 <!-- ---
 
 <p align = "center">
- <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x17&theme=xcode">
+ <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">
 </p>  
  -->
