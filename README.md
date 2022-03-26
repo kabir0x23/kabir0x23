@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kabir0x23/movie-land/pull/2) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-2. ❌ Closed PR [#1184](https://github.com/EddieHubCommunity/LinkFree/pull/1184) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#1184](https://github.com/EddieHubCommunity/LinkFree/pull/1184) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Closed issue [#2](https://github.com/kabir0x23/portfolio/issues/2) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-5. 🎉 Merged PR [#3](https://github.com/kabir0x23/portfolio/pull/3) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+1. 🎉 Merged PR [#4](https://github.com/kabir0x23/portfolio/pull/4) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+2. 🎉 Merged PR [#2](https://github.com/kabir0x23/movie-land/pull/2) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+3. ❌ Closed PR [#1184](https://github.com/EddieHubCommunity/LinkFree/pull/1184) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#1184](https://github.com/EddieHubCommunity/LinkFree/pull/1184) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Closed issue [#2](https://github.com/kabir0x23/portfolio/issues/2) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
 <!--END_SECTION:activity-->
 
 ---
