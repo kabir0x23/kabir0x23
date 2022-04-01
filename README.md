@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kabir0x23/movie-land/pull/3) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-2. 🎉 Merged PR [#6](https://github.com/kabir0x23/portfolio/pull/6) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-3. 🎉 Merged PR [#5](https://github.com/kabir0x23/portfolio/pull/5) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-4. 🎉 Merged PR [#4](https://github.com/kabir0x23/portfolio/pull/4) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-5. 🎉 Merged PR [#2](https://github.com/kabir0x23/movie-land/pull/2) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+1. 🎉 Merged PR [#3](https://github.com/kabir0x23/ecommerce-web-shop/pull/3) in [kabir0x23/ecommerce-web-shop](https://github.com/kabir0x23/ecommerce-web-shop)
+2. 🎉 Merged PR [#3](https://github.com/kabir0x23/movie-land/pull/3) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+3. 🎉 Merged PR [#6](https://github.com/kabir0x23/portfolio/pull/6) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+4. 🎉 Merged PR [#5](https://github.com/kabir0x23/portfolio/pull/5) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+5. 🎉 Merged PR [#4](https://github.com/kabir0x23/portfolio/pull/4) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
 <!--END_SECTION:activity-->
 
 ---
