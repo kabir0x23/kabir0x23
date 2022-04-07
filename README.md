@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/kabir0x23/NewsFlash/pull/9) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
-2. 💪 Opened PR [#9](https://github.com/kabir0x23/NewsFlash/pull/9) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
-3. 🎉 Merged PR [#8](https://github.com/kabir0x23/NewsFlash/pull/8) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
-4. 💪 Opened PR [#8](https://github.com/kabir0x23/NewsFlash/pull/8) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
-5. 🎉 Merged PR [#7](https://github.com/kabir0x23/NewsFlash/pull/7) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
+1. 🎉 Merged PR [#10](https://github.com/kabir0x23/NewsFlash/pull/10) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
+2. 💪 Opened PR [#10](https://github.com/kabir0x23/NewsFlash/pull/10) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
+3. 🎉 Merged PR [#9](https://github.com/kabir0x23/NewsFlash/pull/9) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
+4. 💪 Opened PR [#9](https://github.com/kabir0x23/NewsFlash/pull/9) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
+5. 🎉 Merged PR [#8](https://github.com/kabir0x23/NewsFlash/pull/8) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
 <!--END_SECTION:activity-->
 
 ---
