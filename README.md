@@ -31,11 +31,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/kabir0x23/github-slideshow/pull/6) in [kabir0x23/github-slideshow](https://github.com/kabir0x23/github-slideshow)
-2. 🎉 Merged PR [#9](https://github.com/kabir0x23/portfolio/pull/9) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-3. 💪 Opened PR [#9](https://github.com/kabir0x23/portfolio/pull/9) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
-4. 🎉 Merged PR [#11](https://github.com/kabir0x23/NewsFlash/pull/11) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
-5. 💪 Opened PR [#11](https://github.com/kabir0x23/NewsFlash/pull/11) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
+1. ❗️ Opened issue [#7](https://github.com/kabir0x23/100DaysOfHacking/issues/7) in [kabir0x23/100DaysOfHacking](https://github.com/kabir0x23/100DaysOfHacking)
+2. 🎉 Merged PR [#6](https://github.com/kabir0x23/github-slideshow/pull/6) in [kabir0x23/github-slideshow](https://github.com/kabir0x23/github-slideshow)
+3. 🎉 Merged PR [#9](https://github.com/kabir0x23/portfolio/pull/9) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+4. 💪 Opened PR [#9](https://github.com/kabir0x23/portfolio/pull/9) in [kabir0x23/portfolio](https://github.com/kabir0x23/portfolio)
+5. 🎉 Merged PR [#11](https://github.com/kabir0x23/NewsFlash/pull/11) in [kabir0x23/NewsFlash](https://github.com/kabir0x23/NewsFlash)
 <!--END_SECTION:activity-->
 
 ---
