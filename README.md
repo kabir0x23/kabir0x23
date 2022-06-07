@@ -30,11 +30,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/thecyberworld/thecyberworld/pull/5) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-2. 💪 Opened PR [#5](https://github.com/thecyberworld/thecyberworld/pull/5) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-3. 🎉 Merged PR [#4](https://github.com/thecyberworld/thecyberworld/pull/4) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-4. 💪 Opened PR [#4](https://github.com/thecyberworld/thecyberworld/pull/4) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-5. 🎉 Merged PR [#3](https://github.com/thecyberworld/thecyberworld/pull/3) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+1. 🎉 Merged PR [#7](https://github.com/thecyberworld/thecyberworld/pull/7) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+2. 💪 Opened PR [#7](https://github.com/thecyberworld/thecyberworld/pull/7) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+3. 🎉 Merged PR [#6](https://github.com/thecyberworld/thecyberworld/pull/6) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+4. 💪 Opened PR [#6](https://github.com/thecyberworld/thecyberworld/pull/6) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+5. 🎉 Merged PR [#5](https://github.com/thecyberworld/thecyberworld/pull/5) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
 <!--END_SECTION:activity-->
 
 ---
