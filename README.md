@@ -19,11 +19,11 @@
 
 <!-- ### Latest YouTube videos -->
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- - [Anonymous tools](https://www.youtube.com/watch?v=fBnYJR4F2Sw) -->
-<!-- - [Kali Linux Tools - Part 1](https://www.youtube.com/watch?v=1fxlLmuOlTw) -->
-<!-- - [Privacy 0 - 100%](https://www.youtube.com/watch?v=klimIwTRZ4g) -->
-<!-- - [Top Social Sites For Programmer](https://www.youtube.com/watch?v=vaFFdqf4jE8) -->
-<!-- - [How Hackers can hack you bank account](https://www.youtube.com/watch?v=ub4kcehi9o8) -->
+- [Anonymous tools](https://www.youtube.com/watch?v=fBnYJR4F2Sw)
+- [Kali Linux Tools - Part 1](https://www.youtube.com/watch?v=1fxlLmuOlTw)
+- [Privacy 0 - 100%](https://www.youtube.com/watch?v=klimIwTRZ4g)
+- [Top Social Sites For Programmer](https://www.youtube.com/watch?v=vaFFdqf4jE8)
+- [How Hackers can hack you bank account](https://www.youtube.com/watch?v=ub4kcehi9o8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
