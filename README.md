@@ -15,7 +15,7 @@
 <br />
  -->
 
-<!-- --- -->
+---
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
