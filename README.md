@@ -1,23 +1,23 @@
-### Hi there 👋
+### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![Kabir](https://github.com/kabir0x23/kabir0x23/blob/main/kabir0x23.png "Kabir0x23")
-
-- 👨‍💻 I am Kabir.
 - 🔭 I’m Founder of <!-- [@cryptoverseWeb3](https://github.com/cryptoverseWeb3) and --> [@thecyberworld](https://github.com/thecyberworld). <!-- - 🌱 I’m currently learning DevOps and MERN Stack. --> 
 - 💬 Ask me about cyber-security, devops, web-development and programming.
 - 🥅 My Goal for the coming months is to contribute more to open source.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](https://Linkedin.com/in/kabir0x23/), Discord.
 - ⚡ Fun fact: I love to Create and Hack.
- 
-<!-- --- -->
-<!-- ## 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/kabir0x23/"><img align="left" src="images/linkedin.png" alt="Kabir | LinkedIn" width="42px"/></a>
-<a href="https://twitter.com/kabir0x23"><img align="left" src="images/twitter.png" alt="Kabir | Twitter" width="42px"/></a>
-<br />
-<br />
- -->
 
 ---
+## 🤝 Connect with me:
+<p align="center">
+   <a href="https://twitter.com/kabir0x23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/kabir0x23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/kabir0x23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://linktree.com/kabir0x23"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</p>
+
+---
+
+<!-- --- -->
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
@@ -30,6 +30,18 @@
 
 ---
 
+<!-- ### My Latest Blog Posts 👇 -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+<!--
+<div align="center">
+<p align="center"><b>For more Blogs ⬇</b></p>
+<p><a href="https://kabir0x23.hashnode.dev)"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+
+### Achievements
+-->
+<!-- --- -->
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#30](https://github.com/kabir0x23/cryptoverse/pull/30) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
