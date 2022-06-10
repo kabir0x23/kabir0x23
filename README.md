@@ -53,10 +53,7 @@
 <details>
    <summary> 
       <h3> 
-        <a href="https://www.youtube.com/c/thecyberworld?sub_confirmation=1">
-         Thecyberworld 
-        </a> 
-            Latest YouTube videos 
+         Thecyberworld Latest YouTube videos 
       </h3>
    </summary>
    
