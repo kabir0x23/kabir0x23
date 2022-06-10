@@ -1,8 +1,10 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![Kabir](https://github.com/kabir0x23/kabir0x23/blob/main/kabir0x23.png "Kabir0x23")
 - 🔭 I’m Founder of <!-- [@cryptoverseWeb3](https://github.com/cryptoverseWeb3) and --> [@thecyberworld](https://github.com/thecyberworld). <!-- - 🌱 I’m currently learning DevOps and MERN Stack. --> 
-- 💬 Ask me about cyber-security, devops, web-development and programming.
-- 🥅 My Goal for the coming months is to contribute more to open-source and to guide few folks about open-source and cyber security.
+- 💬 Ask me about cyber security, devops, web-development and programming.
+- 🥅 My Goal for the coming months is to:
+   - 🌠 Contribute more to open-source.
+   - 🌌 Guide new folks about open-source and cyber security.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](https://Linkedin.com/in/kabir0x23/), Discord.
 - ⚡ Fun fact: I love to Create and Hack.
 
@@ -19,7 +21,14 @@
 
 <!-- --- -->
 
-### Latest YouTube videos
+<details>
+
+   <summary> 
+      <h3>
+         Latest YouTube videos 
+      </h3>
+   </summary>
+   
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Anonymous tools](https://www.youtube.com/watch?v=fBnYJR4F2Sw)
 - [Kali Linux Tools - Part 1](https://www.youtube.com/watch?v=1fxlLmuOlTw)
@@ -27,6 +36,8 @@
 - [Top Social Sites For Programmer](https://www.youtube.com/watch?v=vaFFdqf4jE8)
 - [How Hackers can hack you bank account](https://www.youtube.com/watch?v=ub4kcehi9o8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+   
+</details>
 
 ---
 
