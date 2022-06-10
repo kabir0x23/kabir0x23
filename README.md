@@ -6,7 +6,7 @@
    - 🌠 Contribute more to open-source.
    - 🌌 Guide new folks about open-source and cyber security.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](https://Linkedin.com/in/kabir0x23/), Discord.
-- ⚡ Fun fact: I love to Create and Hack.
+- ⚡ Fun fact: I love to Build, Hack, and Secure.
 
 ---
 ## 🤝 Connect with me:
@@ -52,8 +52,11 @@
 
 <details>
    <summary> 
-      <h3>
-         Latest YouTube videos 
+      <h3> 
+        <a href="https://www.youtube.com/c/thecyberworld?sub_confirmation=1">
+         Thecyberworld 
+        </a> 
+            Latest YouTube videos 
       </h3>
    </summary>
    
