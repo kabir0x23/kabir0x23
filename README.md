@@ -46,10 +46,12 @@
 <!--END_SECTION:activity-->
 
 ---
+<p align="center" style="font-size: 35px">
+  🌌 Communities:
+</p>
+<hr />
 
-# 🌌 Communities:
-
-## Thecyberworld Community:
+### Thecyberworld Community:
 - We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
@@ -114,7 +116,7 @@ We <i> create content </i> on <b>social media</b>.
 
 ---
 
-## CryptoverseWeb3 Community:
+### CryptoverseWeb3 Community:
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
 - Working on <b> Open-source</b> projects.
