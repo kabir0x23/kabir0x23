@@ -46,10 +46,12 @@
 <!--END_SECTION:activity-->
 
 ---
-<p align="center" style="font-size: 35px">
-  🌌 Communities:
-</p>
-<hr />
+
+<div align="center">
+  <h2> 🌌 Communities: </h2>
+</div>
+
+---
 
 ### Thecyberworld Community:
 - We help new folks to get into <b> Cyber-security</b> field.
