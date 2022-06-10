@@ -11,22 +11,24 @@
 ---
 ## 🤝 Connect with me:
 <p align="center">
+
   <a href="https://twitter.com/kabir0x23">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kabir0x23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="http://kabir0x23.github.io/portfolio">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
   <a href="https://www.instagram.com/kabir0x23">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
+  </a>
   <a href="https://linktree.com/kabir0x23">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-<!--  <a href="https://linktree.com/kabir0x23">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
--->
+
+
 </p>
 
 ---
