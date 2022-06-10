@@ -20,4 +20,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Crypto-YOUTUBE-VIDEOS-LIST"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7EGHHiNgEN2228BKD1pqg"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCvWsxW1ahIwGAziU4MfLp6A"
+#          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7EGHHiNgEN2228BKD1pqg"
