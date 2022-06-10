@@ -124,7 +124,7 @@ We <i> create content </i> on <b>social media</b>.
 <p><a href="https://kabir0x23.hashnode.dev)"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
-### Achievements
+### Achievements, Awards and Recognition
 -->
 <!-- --- -->
 
