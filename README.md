@@ -3,14 +3,12 @@
 - 🔭 I’m Founder of
   - <b>[@thecyberworld](https://github.com/thecyberworld)</b> and
   - <b>[@CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> Community. 
-  
 - 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
     - 🌌 Guide new folks about <i>Open-source</i> and <i>Cyber-security</i>.
 - 📫 How to reach me: 
   - <i> Twitter, LinkedIn, Discord </i>, just ping me (username: kabir0x23).
-
 - ⚡ Fun fact: I love to Build, Hack, and Secure.
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
