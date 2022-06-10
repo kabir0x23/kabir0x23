@@ -51,7 +51,6 @@
   <h2> 🌌 Communities: </h2>
 </div>
 
----
 
 ### Thecyberworld Community:
 - We help new folks to get into <b> Cyber-security</b> field.
