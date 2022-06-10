@@ -1,17 +1,22 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![Kabir](https://github.com/kabir0x23/kabir0x23/blob/main/kabir0x23.png "Kabir0x23")
-- 🔭 I’m Founder of <!-- [@cryptoverseWeb3](https://github.com/cryptoverseWeb3) and --> [@thecyberworld](https://github.com/thecyberworld). <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
-- 💬 Ask me about cyber security, devops, web-development and programming.
+- 🔭 I’m Founder of
+  - <b>[@thecyberworld](https://github.com/thecyberworld)</b> and
+  - <b>[@CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> Community. 
+  
+- 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
-    - 🌠 Contribute more to open-source.
-    - 🌌 Guide new folks about open-source and cyber security.
-- 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x23), [LinkedIn](https://Linkedin.com/in/kabir0x23/), Discord.
+    - 🌠 Contribute more to <i>Open-source</i>.
+    - 🌌 Guide new folks about <i>Open-source</i> and <i>Cyber-security</i>.
+- 📫 How to reach me: 
+  - <i> Twitter, LinkedIn, Discord </i>, just ping me (username: kabir0x23).
+
 - ⚡ Fun fact: I love to Build, Hack, and Secure.
+<!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
 ---
-## 🤝 Connect with me:
+## 🤝 Connect with me: 👇
 <p align="center">
-
   <a href="https://twitter.com/kabir0x23">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -46,7 +51,7 @@
 
 ## 🌌 About Communities:
 #### [@thecyberworld](https://github.com/thecyberworld ) Community:
-- Here we help new folks to get into <b> Cyber-security</b> field.
+- We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
 - Working on <b> Open-source</b> projects.
