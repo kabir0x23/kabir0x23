@@ -46,9 +46,12 @@
 <!--END_SECTION:activity-->
 
 ---
+<p align="center"> 
+<strong> 🌌 Communities: </strong>
 
-## 🌌 About Communities:
-#### [@thecyberworld](https://github.com/thecyberworld ) Community:
+</p>
+
+### Thecyberworld Community:
 - We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
@@ -113,8 +116,7 @@ We <i> create content </i> on <b>social media</b>.
 
 ---
 
-# Cryptoverse Web3
-## 🌌 About Community:
+### CryptoverseWeb3 Community:
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
 - Working on <b> Open-source</b> projects.
@@ -175,7 +177,6 @@ We create <i> Educational</i> content on <b>social media</b>.
 <p align="center"><b>For more Blogs ⬇</b></p>
 <p><a href="https://kabir0x23.hashnode.dev)"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
-
 ### Achievements, Awards and Recognition
 -->
 <!-- --- -->
