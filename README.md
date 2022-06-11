@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/32) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-2. 💪 Opened PR [#32](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/32) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-3. 🎉 Merged PR [#31](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/31) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-4. 💪 Opened PR [#31](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/31) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-5. 🎉 Merged PR [#30](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/30) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+1. ❗️ Opened issue [#36](https://github.com/cryptoverseWeb3/cryptoverseWeb3/issues/36) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+2. 🎉 Merged PR [#35](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/35) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+3. 💪 Opened PR [#35](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/35) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+4. ❗️ Opened issue [#34](https://github.com/cryptoverseWeb3/cryptoverseWeb3/issues/34) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+5. ❗️ Closed issue [#26](https://github.com/cryptoverseWeb3/cryptoverseWeb3/issues/26) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
 <!--END_SECTION:activity-->
 
 ---
