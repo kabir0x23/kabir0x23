@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
-![Kabir](https://github.com/kabir0x23/kabir0x23/blob/main/kabir0x23.png "Kabir0x23")
+![Kabir](images/kabir0x23.png "Kabir0x23")
 - 🔭 I’m Founder of
   - <b>[Thecyberworld](https://github.com/thecyberworld)</b> and
   - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> Community. 
@@ -53,8 +53,8 @@
 </div>
 
 
-<div style="float: left;">
-<img src="images/Logo_theCyberworld.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;"/>
+<div style="float: left; flex: auto">
+<img src="images/Logo_theCyberworld.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;" />
 </div> 
 <h3> Thecyberworld Community:</h3>
 
@@ -121,10 +121,11 @@ We <i> create content </i> on <b>social media</b>.
 </details>
 
 ---
+
 <div style="float: left;">
 <img src="images/logo_ethereum.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;"/>
-</div> 
-<h3>  Cryptoverse Web3 Community:</h3>
+</div>
+<h3>  Cryptoverse Web3 Community: </h3>
 
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
