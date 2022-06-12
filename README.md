@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
-![Kabir](https://github.com/kabir0x23/kabir0x23/blob/main/kabir0x23.png "Kabir0x23")
+![Kabir](images/kabir0x23.png "Kabir0x23")
 - 🔭 I’m Founder of
   - <b>[Thecyberworld](https://github.com/thecyberworld)</b> and
   - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> Community. 
