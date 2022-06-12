@@ -53,12 +53,16 @@
 </div>
 
 
-### Thecyberworld Community:
+<div style="float: left;">
+<img src="images/Logo_theCyberworld.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;"/>
+</div> 
+<h3> Thecyberworld Community:</h3>
+
 - We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
 - Working on <b> Open-source</b> projects.
-- Website <i> (Coming soon) </i>
+- Community website <i> (Coming soon) </i>
 
 <p align="center">
 Join the <b> community </b> from here 👇
@@ -117,15 +121,28 @@ We <i> create content </i> on <b>social media</b>.
 </details>
 
 ---
+<div style="float: left;">
+<img src="images/logo_ethereum.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;"/>
+</div> 
+<h3>  Cryptoverse Web3 Community:</h3>
 
-### CryptoverseWeb3 Community:
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
 - Working on <b> Open-source</b> projects.
-- Website <i> (Coming soon) </i>
+- Community website <i> (Coming soon) </i>
 <!--
 - Guided more than 100 folks to get into <b> Web3 </b>.
 -->
+
+[//]: # (- Website: <a href="https://www.cryptoverseweb3.com/"> [ Cryptoverse Web3 ]  </a>)
+
+<p align="center"> 
+<b>Website:</b>
+<br>
+  <a href="https://github.com/thecyberworld">
+    <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
+  </a>
+</p>
 <p align="center">
 Join the <b> community </b> from here 👇
 <br>
