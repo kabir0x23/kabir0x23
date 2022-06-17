@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/46) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
-2. 🎉 Merged PR [#64](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/64) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-3. 💪 Opened PR [#64](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/64) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-4. 🎉 Merged PR [#63](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/63) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-5. 💪 Opened PR [#63](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/63) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+1. 🎉 Merged PR [#37](https://github.com/kabir0x23/cryptoverse/pull/37) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+2. 💪 Opened PR [#37](https://github.com/kabir0x23/cryptoverse/pull/37) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+3. 💪 Opened PR [#46](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/46) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+4. 🎉 Merged PR [#64](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/64) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+5. 💪 Opened PR [#64](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/64) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
 <!--END_SECTION:activity-->
 
 ---
