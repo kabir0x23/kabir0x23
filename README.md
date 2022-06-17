@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/kabir0x23/cryptoverse/pull/39) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-2. 💪 Opened PR [#39](https://github.com/kabir0x23/cryptoverse/pull/39) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-3. 🎉 Merged PR [#38](https://github.com/kabir0x23/cryptoverse/pull/38) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-4. 💪 Opened PR [#38](https://github.com/kabir0x23/cryptoverse/pull/38) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-5. 🎉 Merged PR [#37](https://github.com/kabir0x23/cryptoverse/pull/37) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+1. 🎉 Merged PR [#41](https://github.com/kabir0x23/cryptoverse/pull/41) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+2. 💪 Opened PR [#41](https://github.com/kabir0x23/cryptoverse/pull/41) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+3. 🎉 Merged PR [#40](https://github.com/kabir0x23/cryptoverse/pull/40) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+4. ❗️ Closed issue [#59](https://github.com/cryptoverseWeb3/cryptoverseWeb3/issues/59) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+5. 💪 Opened PR [#40](https://github.com/kabir0x23/cryptoverse/pull/40) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
