@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1186](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1186) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#66](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/66) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-3. 💪 Opened PR [#66](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/66) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-4. 🎉 Merged PR [#65](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/65) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-5. 💪 Opened PR [#65](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/65) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+1. 🎉 Merged PR [#11](https://github.com/thecyberworld/thecyberworld/pull/11) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+2. 💪 Opened PR [#11](https://github.com/thecyberworld/thecyberworld/pull/11) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+3. 💪 Opened PR [#1186](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1186) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🎉 Merged PR [#66](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/66) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
+5. 💪 Opened PR [#66](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/66) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
 <!--END_SECTION:activity-->
 
 ---
