@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![Kabir](images/kabir0x23.png "Kabir0x23")
 - 🔭 I’m Founder of
-  - <b>[Thecyberworld](https://github.com/thecyberworld)</b> and
-  - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> . 
+  - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> and
+  - <b>[Thecyberworld](https://github.com/thecyberworld)</b> Community.
 - 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
