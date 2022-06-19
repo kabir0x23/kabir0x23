@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/thecyberworld/thecyberworld/pull/12) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-2. 💪 Opened PR [#12](https://github.com/thecyberworld/thecyberworld/pull/12) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-3. 🎉 Merged PR [#11](https://github.com/thecyberworld/thecyberworld/pull/11) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-4. 💪 Opened PR [#11](https://github.com/thecyberworld/thecyberworld/pull/11) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-5. 💪 Opened PR [#1186](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1186) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#1189](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1189) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#1188](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1188) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 💪 Opened PR [#1142](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1142) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#12](https://github.com/thecyberworld/thecyberworld/pull/12) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+5. 💪 Opened PR [#12](https://github.com/thecyberworld/thecyberworld/pull/12) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
 <!--END_SECTION:activity-->
 
 ---
