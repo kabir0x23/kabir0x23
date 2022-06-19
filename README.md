@@ -64,6 +64,13 @@
 - Working on <b> Open-source</b> projects.
 - Community website <i> (Coming soon) </i>
 
+<p align="center"> 
+<b>Website:</b>
+<br>
+  <a href="https://github.com/thecyberworld">
+    <img src="https://img.shields.io/badge/Coming Soon-000000?style=for-the-badge&logo=code&logoColor=white">
+  </a>
+</p>
 <p align="center">
 Join the <b> community </b> from here 👇
 <br>
