@@ -2,7 +2,7 @@
 ![Kabir](images/kabir0x23.png "Kabir0x23")
 - 🔭 I’m Founder of
   - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> and
-  - <b>[Thecyberworld](https://github.com/thecyberworld)</b> Community.
+  - <b>[Thecyberworld Community](https://github.com/thecyberworld)</b>.
 - 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
