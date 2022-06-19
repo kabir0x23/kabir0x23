@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1189](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1189) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Opened issue [#1188](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1188) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#1142](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1142) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#12](https://github.com/thecyberworld/thecyberworld/pull/12) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-5. 💪 Opened PR [#12](https://github.com/thecyberworld/thecyberworld/pull/12) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+1. 🎉 Merged PR [#44](https://github.com/kabir0x23/cryptoverse/pull/44) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+2. 💪 Opened PR [#44](https://github.com/kabir0x23/cryptoverse/pull/44) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+3. 🎉 Merged PR [#43](https://github.com/kabir0x23/cryptoverse/pull/43) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+4. 💪 Opened PR [#43](https://github.com/kabir0x23/cryptoverse/pull/43) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+5. 💪 Opened PR [#1189](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1189) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 ---
