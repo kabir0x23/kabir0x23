@@ -13,14 +13,6 @@
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
 ---
-
-### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-- [Linux File System (something new in short)](https://kabir0x23.hashnode.dev/linux-file-system-something-new-in-short)
-<!-- HASHNODE_BLOG:END -->
-
----
-
 <div align="center">
 <h3> 🤝 Connect with me: 👇
 </h3>
@@ -39,7 +31,16 @@
   <a href="https://linktree.com/kabir0x23">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
+
+
 </div>
+
+---
+
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+- [Linux File System (something new in short)](https://kabir0x23.hashnode.dev/linux-file-system-something-new-in-short)
+<!-- HASHNODE_BLOG:END -->
 
 ---
 
@@ -58,9 +59,10 @@
   <h2> 🌌 Communities: </h2>
 </div>
 
-
 <div style="float: left; flex: auto">
-<img src="images/Logo_theCyberworld.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;" />
+<a href="https://www.linktree.com/thecyberworld">
+<img src="images/Logo_theCyberworld.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;">
+</a>
 </div> 
 <h3> Thecyberworld Community:</h3>
 
@@ -136,7 +138,10 @@ We <i> create content </i> on <b>social media</b>.
 ---
 
 <div style="float: left;">
-<img src="images/logo_ethereum.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;"/>
+<a href="https://www.linktree.com/cryptoverseWeb3">
+
+<img src="images/logo_ethereum.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;">
+</a>
 </div>
 <h3>  Cryptoverse Web3 Community: </h3>
 
