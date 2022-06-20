@@ -35,6 +35,13 @@
 
 </div>
 
+
+---
+
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ---
 
 ### :zap: Recent Activity
@@ -194,11 +201,7 @@ We create <i> Educational</i> content on <b>social media</b>.
 
 </details>
 
----
 
-<!-- ### My Latest Blog Posts 👇 -->
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
 <!--
 <div align="center">
 <p align="center"><b>For more Blogs ⬇</b></p>
