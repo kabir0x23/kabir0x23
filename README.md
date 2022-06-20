@@ -39,11 +39,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/thecyberworld/thecyberworld/pull/13) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-2. 💪 Opened PR [#13](https://github.com/thecyberworld/thecyberworld/pull/13) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-3. 🎉 Merged PR [#48](https://github.com/kabir0x23/cryptoverse/pull/48) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-4. 💪 Opened PR [#48](https://github.com/kabir0x23/cryptoverse/pull/48) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-5. 🎉 Merged PR [#47](https://github.com/kabir0x23/cryptoverse/pull/47) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+1. 🗣 Commented on [#1](https://github.com/jassighuman591/bonefire/issues/1) in [jassighuman591/bonefire](https://github.com/jassighuman591/bonefire)
+2. 🎉 Merged PR [#13](https://github.com/thecyberworld/thecyberworld/pull/13) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+3. 💪 Opened PR [#13](https://github.com/thecyberworld/thecyberworld/pull/13) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+4. 🎉 Merged PR [#48](https://github.com/kabir0x23/cryptoverse/pull/48) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+5. 💪 Opened PR [#48](https://github.com/kabir0x23/cryptoverse/pull/48) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
