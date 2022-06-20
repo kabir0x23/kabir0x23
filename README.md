@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![Kabir](images/kabir0x23.png "Kabir0x23")
 - 🔭 I’m Founder of
-  - <b>[Thecyberworld](https://github.com/thecyberworld)</b> and
-  - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> Community. 
+  - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) </b> and
+  - <b>[Thecyberworld Community](https://github.com/thecyberworld)</b>.
 - 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
@@ -35,15 +35,22 @@
 
 </div>
 
+
+---
+
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ---
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/66) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-2. 💪 Opened PR [#66](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/66) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-3. 🎉 Merged PR [#65](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/65) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-4. 💪 Opened PR [#65](https://github.com/cryptoverseWeb3/cryptoverseWeb3/pull/65) in [cryptoverseWeb3/cryptoverseWeb3](https://github.com/cryptoverseWeb3/cryptoverseWeb3)
-5. 🎉 Merged PR [#42](https://github.com/kabir0x23/cryptoverse/pull/42) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+1. 🎉 Merged PR [#53](https://github.com/kabir0x23/cryptoverse/pull/53) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+2. 💪 Opened PR [#53](https://github.com/kabir0x23/cryptoverse/pull/53) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+3. 🎉 Merged PR [#52](https://github.com/kabir0x23/cryptoverse/pull/52) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+4. 💪 Opened PR [#52](https://github.com/kabir0x23/cryptoverse/pull/52) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+5. 🎉 Merged PR [#51](https://github.com/kabir0x23/cryptoverse/pull/51) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
@@ -64,6 +71,13 @@
 - Working on <b> Open-source</b> projects.
 - Community website <i> (Coming soon) </i>
 
+<p align="center"> 
+<b>Website:</b>
+<br>
+  <a href="https://github.com/thecyberworld">
+    <img src="https://img.shields.io/badge/Coming Soon-000000?style=for-the-badge&logo=code&logoColor=white">
+  </a>
+</p>
 <p align="center">
 Join the <b> community </b> from here 👇
 <br>
@@ -140,7 +154,7 @@ We <i> create content </i> on <b>social media</b>.
 <p align="center"> 
 <b>Website:</b>
 <br>
-  <a href="https://github.com/thecyberworld">
+  <a href="https://www.cryptoverseweb3.com">
     <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
   </a>
 </p>
@@ -187,11 +201,7 @@ We create <i> Educational</i> content on <b>social media</b>.
 
 </details>
 
----
 
-<!-- ### My Latest Blog Posts 👇 -->
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
 <!--
 <div align="center">
 <p align="center"><b>For more Blogs ⬇</b></p>
