@@ -38,11 +38,9 @@
 
 ---
 
-### My Latest Blog Posts 👇
+## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-
 <!-- HASHNODE_BLOG:END -->
-
 ---
 
 ### :zap: Recent Activity
