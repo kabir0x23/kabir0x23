@@ -13,6 +13,7 @@
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
 ---
+
 <div align="center">
 <h3> 🤝 Connect with me: 👇
 </h3>
@@ -31,16 +32,18 @@
   <a href="https://linktree.com/kabir0x23">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-
-
 </div>
 
 ---
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Linux File System (something new in short)](https://kabir0x23.hashnode.dev/linux-file-system-something-new-in-short)
 <!-- HASHNODE_BLOG:END -->
+
+<div align="center">
+<p align="center"><b>For more Blogs 👇</b></p>
+<p><a href="https://kabir0x23.hashnode.dev)"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
 
 ---
 
@@ -149,11 +152,6 @@ We <i> create content </i> on <b>social media</b>.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
 - Working on <b> Open-source</b> projects.
 - Community website <i> (Coming soon) </i>
-<!--
-- Guided more than 100 folks to get into <b> Web3 </b>.
--->
-
-[//]: # (- Website: <a href="https://www.cryptoverseweb3.com/"> [ Cryptoverse Web3 ]  </a>)
 
 <p align="center"> 
 <b>Website:</b>
@@ -192,7 +190,6 @@ We create <i> Educational</i> content on <b>social media</b>.
   </a>
 </p>
 
-
 <details>
    <summary> 
       <h4> 
@@ -206,14 +203,9 @@ We create <i> Educational</i> content on <b>social media</b>.
 </details>
 
 
-<!--
-<div align="center">
-<p align="center"><b>For more Blogs ⬇</b></p>
-<p><a href="https://kabir0x23.hashnode.dev)"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
-</div>
+<!-- 
 ### Achievements, Awards and Recognition
 -->
-<!-- --- -->
 
 ---
 
