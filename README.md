@@ -40,6 +40,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Linux File System (something new in short)](https://kabir0x23.hashnode.dev/linux-file-system-something-new-in-short)
 <!-- HASHNODE_BLOG:END -->
 ---
 
