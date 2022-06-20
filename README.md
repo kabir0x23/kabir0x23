@@ -38,6 +38,17 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.pradumnasaraf.co//community-in-diversity" title="CommUNITY In Diversity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652784120046/yKxa9IWWM.png" alt="CommUNITY In Diversity" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//community-in-diversity" title="CommUNITY In Diversity"><strong>CommUNITY In Diversity</strong></a>
+<br/> 👥 So what is a community?
+A community is a group of people who share an identity-forming narrative and UNITE together to help each other out. 
+Eg: Eddiehub - An inclusive community that is spreading literacy about the Open Source and, helping beginn... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650005174145/ksDdgDRw4.png" alt="Open Source programs" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><strong>Open Source programs</strong></a>
+<br/> ➤ Open Source Programs/events:
+Learning is a never-ending process, to keep you on track, many organizations host and runs different types of Open Source programs. All programs run with one core value awareness and increase literacy about the Open Sou... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
