@@ -52,7 +52,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 <div align="center">
 <p align="center"><b>For more Blogs 👇</b></p>
-<p><a href="https://kabir0x23.hashnode.dev)"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+<p>
+  <a href="https://kabir0x23.hashnode.dev">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+  </a>
+</p>
 </div>
 
 ---
