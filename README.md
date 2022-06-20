@@ -13,6 +13,14 @@
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
 ---
+
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+- [Linux File System (something new in short)](https://kabir0x23.hashnode.dev/linux-file-system-something-new-in-short)
+<!-- HASHNODE_BLOG:END -->
+
+---
+
 <div align="center">
 <h3> 🤝 Connect with me: 👇
 </h3>
@@ -31,17 +39,8 @@
   <a href="https://linktree.com/kabir0x23">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-
-
 </div>
 
-
----
-
-### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-- [Linux File System (something new in short)](https://kabir0x23.hashnode.dev/linux-file-system-something-new-in-short)
-<!-- HASHNODE_BLOG:END -->
 ---
 
 ### :zap: Recent Activity
