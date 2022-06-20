@@ -40,6 +40,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+
 <!-- HASHNODE_BLOG:END -->
 
 ---
@@ -211,6 +212,7 @@ We create <i> Educational</i> content on <b>social media</b>.
 -->
 <!-- --- -->
 
+---
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x23&count_private=true&theme=dark&show_icons=true" />
