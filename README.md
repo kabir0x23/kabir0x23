@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/thecyberworld/thecyberworld/pull/16) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-2. 💪 Opened PR [#16](https://github.com/thecyberworld/thecyberworld/pull/16) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-3. 🎉 Merged PR [#15](https://github.com/thecyberworld/thecyberworld/pull/15) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-4. 💪 Opened PR [#15](https://github.com/thecyberworld/thecyberworld/pull/15) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
-5. 🎉 Merged PR [#14](https://github.com/thecyberworld/thecyberworld/pull/14) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+1. ❗️ Opened issue [#54](https://github.com/kabir0x23/cryptoverse/issues/54) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+2. 🎉 Merged PR [#16](https://github.com/thecyberworld/thecyberworld/pull/16) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+3. 💪 Opened PR [#16](https://github.com/thecyberworld/thecyberworld/pull/16) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+4. 🎉 Merged PR [#15](https://github.com/thecyberworld/thecyberworld/pull/15) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
+5. 💪 Opened PR [#15](https://github.com/thecyberworld/thecyberworld/pull/15) in [thecyberworld/thecyberworld](https://github.com/thecyberworld/thecyberworld)
 <!--END_SECTION:activity-->
 
 ---
