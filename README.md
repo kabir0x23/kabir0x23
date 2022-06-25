@@ -14,7 +14,6 @@
 
 ---
 
-
 <div align="center">
 <h3> 🤝 Connect with me: 👇
 </h3>
@@ -175,6 +174,7 @@ We <i> create content </i> on <b>social media</b>.
     <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
   </a>
 </p>
+
 <p align="center">
 Join the <b> community </b> from here 👇
 <br>
@@ -217,7 +217,6 @@ We create <i> Educational</i> content on <b>social media</b>.
 
 </details>
 
-
 <!-- 
 ### Achievements, Awards and Recognition
 -->
@@ -229,8 +228,6 @@ We create <i> Educational</i> content on <b>social media</b>.
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
 </p>
 
-
 <p align = "center">
  <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">
 </p>  
-
