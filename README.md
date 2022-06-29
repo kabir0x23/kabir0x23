@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/kabir0x23/Portfolio/pull/9) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
-2. 🎉 Merged PR [#8](https://github.com/kabir0x23/Portfolio/pull/8) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
-3. 💪 Opened PR [#8](https://github.com/kabir0x23/Portfolio/pull/8) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
-4. ❌ Closed PR [#6](https://github.com/kabir0x23/Portfolio/pull/6) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
-5. ❌ Closed PR [#5](https://github.com/kabir0x23/Portfolio/pull/5) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
+1. 🎉 Merged PR [#14](https://github.com/kabir0x23/Portfolio/pull/14) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
+2. 💪 Opened PR [#14](https://github.com/kabir0x23/Portfolio/pull/14) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
+3. 🎉 Merged PR [#13](https://github.com/kabir0x23/Portfolio/pull/13) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
+4. 💪 Opened PR [#13](https://github.com/kabir0x23/Portfolio/pull/13) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
+5. 🎉 Merged PR [#12](https://github.com/kabir0x23/Portfolio/pull/12) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
