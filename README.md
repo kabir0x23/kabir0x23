@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/kabir0x23/movie-land/pull/5) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-2. 🎉 Merged PR [#4](https://github.com/kabir0x23/movie-land/pull/4) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-3. 💪 Opened PR [#4](https://github.com/kabir0x23/movie-land/pull/4) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-4. 🎉 Merged PR [#20](https://github.com/kabir0x23/Portfolio/pull/20) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
-5. 💪 Opened PR [#20](https://github.com/kabir0x23/Portfolio/pull/20) in [kabir0x23/Portfolio](https://github.com/kabir0x23/Portfolio)
+1. 🎉 Merged PR [#7](https://github.com/kabir0x23/movie-land/pull/7) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+2. 🎉 Merged PR [#8](https://github.com/kabir0x23/movie-land/pull/8) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+3. 💪 Opened PR [#8](https://github.com/kabir0x23/movie-land/pull/8) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+4. 🎉 Merged PR [#6](https://github.com/kabir0x23/movie-land/pull/6) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+5. 🎉 Merged PR [#5](https://github.com/kabir0x23/movie-land/pull/5) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
 <!--END_SECTION:activity-->
 
 ---
