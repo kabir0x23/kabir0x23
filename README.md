@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/7) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-2. 💪 Opened PR [#7](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/7) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-3. 🎉 Merged PR [#6](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/6) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-4. 💪 Opened PR [#6](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/6) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-5. 🎉 Merged PR [#5](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/5) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+1. 🎉 Merged PR [#8](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/8) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+2. 💪 Opened PR [#8](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/8) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+3. 🎉 Merged PR [#7](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/7) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+4. 💪 Opened PR [#7](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/7) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+5. 🎉 Merged PR [#6](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/6) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
 <!--END_SECTION:activity-->
 
 ---
