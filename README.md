@@ -86,14 +86,13 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 - We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
-- Working on <b> Open-source</b> projects.
-- Community website <i> (Coming soon) </i>
+- <b> Open-source</b> projects.
 
 <p align="center"> 
 <b>Website:</b>
 <br>
   <a href="https://github.com/thecyberworld">
-    <img src="https://img.shields.io/badge/Coming Soon-000000?style=for-the-badge&logo=code&logoColor=white">
+    <img src="https://img.shields.io/badge/Thecyberhub.org-000000?style=for-the-badge&logo=code&logoColor=white">
   </a>
 </p>
 <p align="center">
@@ -164,17 +163,23 @@ We <i> create content </i> on <b>social media</b>.
 
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
-- Working on <b> Open-source</b> projects.
-- Community website <i> (Coming soon) </i>
+- <b> Open-source</b> projects.
 
 <p align="center"> 
-<b>Website:</b>
+<b>Official Website:</b>
 <br>
   <a href="https://www.cryptoverseweb3.com">
     <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
   </a>
 </p>
 
+<p align="center">
+  <b>Community Website:</b>
+  <br>
+  <a href="https://www.cryptoverseweb3.com">
+    <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
+  </a>
+</p>
 <p align="center">
 Join the <b> community </b> from here 👇
 <br>
