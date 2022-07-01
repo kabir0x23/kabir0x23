@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1222](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1222) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. ❗️ Opened issue [#1221](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1221) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 💪 Opened PR [#1220](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1220) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#1219](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1219) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. ❗️ Opened issue [#1218](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1218) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 💪 Opened PR [#1224](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1224) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#1223](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1223) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 💪 Opened PR [#1222](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1222) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#1221](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1221) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 💪 Opened PR [#1220](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1220) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 ---
