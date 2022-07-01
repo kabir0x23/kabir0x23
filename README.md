@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/kabir0x23/movie-land/pull/16) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-2. 🎉 Merged PR [#15](https://github.com/kabir0x23/movie-land/pull/15) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
-3. 🎉 Merged PR [#56](https://github.com/kabir0x23/cryptoverse/pull/56) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-4. 🎉 Merged PR [#55](https://github.com/kabir0x23/cryptoverse/pull/55) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-5. 💪 Opened PR [#55](https://github.com/kabir0x23/cryptoverse/pull/55) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+1. 🎉 Merged PR [#57](https://github.com/kabir0x23/cryptoverse/pull/57) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+2. 💪 Opened PR [#57](https://github.com/kabir0x23/cryptoverse/pull/57) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+3. 🎉 Merged PR [#16](https://github.com/kabir0x23/movie-land/pull/16) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+4. 🎉 Merged PR [#15](https://github.com/kabir0x23/movie-land/pull/15) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+5. 🎉 Merged PR [#56](https://github.com/kabir0x23/cryptoverse/pull/56) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
