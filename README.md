@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1216](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1216) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#8](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/8) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-3. 💪 Opened PR [#8](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/8) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-4. 🎉 Merged PR [#7](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/7) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
-5. 💪 Opened PR [#7](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/7) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+1. 💪 Opened PR [#1222](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1222) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#1221](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1221) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 💪 Opened PR [#1220](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1220) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#1219](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1219) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. ❗️ Opened issue [#1218](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1218) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 ---
