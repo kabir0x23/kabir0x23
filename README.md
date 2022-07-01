@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1224](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1224) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. ❗️ Opened issue [#1223](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1223) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 💪 Opened PR [#1222](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1222) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#1221](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1221) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 💪 Opened PR [#1220](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1220) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#16](https://github.com/kabir0x23/movie-land/pull/16) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+2. 🎉 Merged PR [#15](https://github.com/kabir0x23/movie-land/pull/15) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
+3. 🎉 Merged PR [#56](https://github.com/kabir0x23/cryptoverse/pull/56) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+4. 🎉 Merged PR [#55](https://github.com/kabir0x23/cryptoverse/pull/55) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+5. 💪 Opened PR [#55](https://github.com/kabir0x23/cryptoverse/pull/55) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
