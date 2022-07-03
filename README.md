@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1220](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1220) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#1216](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1216) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. ❗️ Closed issue [#1223](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1223) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#57](https://github.com/kabir0x23/cryptoverse/pull/57) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
-5. 💪 Opened PR [#57](https://github.com/kabir0x23/cryptoverse/pull/57) in [kabir0x23/cryptoverse](https://github.com/kabir0x23/cryptoverse)
+1. 🎉 Merged PR [#42](https://github.com/thecyberworld/Thecyberhub.org/pull/42) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+2. 💪 Opened PR [#42](https://github.com/thecyberworld/Thecyberhub.org/pull/42) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+3. 🎉 Merged PR [#41](https://github.com/thecyberworld/Thecyberhub.org/pull/41) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+4. 💪 Opened PR [#41](https://github.com/thecyberworld/Thecyberhub.org/pull/41) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+5. 🎉 Merged PR [#40](https://github.com/thecyberworld/Thecyberhub.org/pull/40) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
