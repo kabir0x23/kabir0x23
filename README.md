@@ -20,9 +20,6 @@
   <a href="https://twitter.com/kabir0x23">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="http://kabir0x23.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" >
-  </a>
   <a href="https://www.linkedin.com/in/kabir0x23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -31,6 +28,9 @@
   </a>
   <a href="https://linktree.com/kabir0x23">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+  <a href="http://kabir0x23.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" >
   </a>
 </div>
 
