@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#836](https://github.com/EddieHubCommunity/LinkFree/issues/836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#51](https://github.com/thecyberworld/Thecyberhub.org/pull/51) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
-3. 💪 Opened PR [#51](https://github.com/thecyberworld/Thecyberhub.org/pull/51) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
-4. 🎉 Merged PR [#50](https://github.com/thecyberworld/Thecyberhub.org/pull/50) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
-5. 💪 Opened PR [#50](https://github.com/thecyberworld/Thecyberhub.org/pull/50) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+1. 💪 Opened PR [#1448](https://github.com/EddieHubCommunity/LinkFree/pull/1448) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#836](https://github.com/EddieHubCommunity/LinkFree/issues/836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#51](https://github.com/thecyberworld/Thecyberhub.org/pull/51) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+4. 💪 Opened PR [#51](https://github.com/thecyberworld/Thecyberhub.org/pull/51) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+5. 🎉 Merged PR [#50](https://github.com/thecyberworld/Thecyberhub.org/pull/50) in [thecyberworld/Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
