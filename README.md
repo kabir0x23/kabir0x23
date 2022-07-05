@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/68) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-2. 💪 Opened PR [#68](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/68) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-3. 🎉 Merged PR [#67](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/67) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-4. 💪 Opened PR [#1448](https://github.com/EddieHubCommunity/LinkFree/pull/1448) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#836](https://github.com/EddieHubCommunity/LinkFree/issues/836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#69](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/69) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+2. 💪 Opened PR [#69](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/69) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+3. 🎉 Merged PR [#68](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/68) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+4. 💪 Opened PR [#68](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/68) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+5. 🎉 Merged PR [#67](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/67) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
 <!--END_SECTION:activity-->
 
 ---
