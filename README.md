@@ -63,11 +63,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/74) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-2. 💪 Opened PR [#74](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/74) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-3. 🎉 Merged PR [#73](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/73) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-4. 💪 Opened PR [#73](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/73) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
-5. 🎉 Merged PR [#72](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/72) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+1. 💪 Opened PR [#75](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/75) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+2. 🎉 Merged PR [#74](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/74) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+3. 💪 Opened PR [#74](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/74) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+4. 🎉 Merged PR [#73](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/73) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
+5. 💪 Opened PR [#73](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com/pull/73) in [cryptoverseWeb3/CryptoverseWeb3.com](https://github.com/cryptoverseWeb3/CryptoverseWeb3.com)
 <!--END_SECTION:activity-->
 
 ---
