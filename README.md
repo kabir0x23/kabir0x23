@@ -61,11 +61,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4284](https://github.com/EddieHubCommunity/support/issues/4284) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#7](https://github.com/cryptoverseWeb3/Cryptoverse/pull/7) in [cryptoverseWeb3/Cryptoverse](https://github.com/cryptoverseWeb3/Cryptoverse)
-3. 💪 Opened PR [#7](https://github.com/cryptoverseWeb3/Cryptoverse/pull/7) in [cryptoverseWeb3/Cryptoverse](https://github.com/cryptoverseWeb3/Cryptoverse)
-4. 🎉 Merged PR [#6](https://github.com/cryptoverseWeb3/Cryptoverse/pull/6) in [cryptoverseWeb3/Cryptoverse](https://github.com/cryptoverseWeb3/Cryptoverse)
-5. 💪 Opened PR [#6](https://github.com/cryptoverseWeb3/Cryptoverse/pull/6) in [cryptoverseWeb3/Cryptoverse](https://github.com/cryptoverseWeb3/Cryptoverse)
+1. 🗣 Commented on [#1](https://github.com/kabir0x23/kabir0x23/issues/1) in [kabir0x23/kabir0x23](https://github.com/kabir0x23/kabir0x23)
+2. 🗣 Commented on [#1](https://github.com/kabir0x23/kabir0x23/issues/1) in [kabir0x23/kabir0x23](https://github.com/kabir0x23/kabir0x23)
+3. 🗣 Commented on [#1](https://github.com/kabir0x23/kabir0x23/issues/1) in [kabir0x23/kabir0x23](https://github.com/kabir0x23/kabir0x23)
+4. 🗣 Commented on [#1](https://github.com/kabir0x23/kabir0x23/issues/1) in [kabir0x23/kabir0x23](https://github.com/kabir0x23/kabir0x23)
+5. ❗️ Opened issue [#4284](https://github.com/EddieHubCommunity/support/issues/4284) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
