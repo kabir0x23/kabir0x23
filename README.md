@@ -6,16 +6,14 @@
 - 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
-    - 🌌 Guide new folks about <i>Open-source</i> and <i>Cyber-security</i>.
-- 📫 How to reach me: 
-  - <i> Twitter, LinkedIn, Discord </i>, just ping me (username: kabir0x23).
+    - 🌌 Guide new folks about <i>Open-source</i> and <i>Cyber-security</i>. <!-- 📫 How to reach me:   - <i> Twitter, LinkedIn, Discord </i>, just ping me (username: kabir0x23). -->
 - ⚡ Fun fact: I love to Build, Hack, and Secure.
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
 ---
 
 <div align="center">
-<h3> 🤝 Connect with me: 👇
+<h3> 🤝 Connect and Reach out to me: 👇
 </h3>
   <a href="https://twitter.com/kabir0x23">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
