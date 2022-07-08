@@ -8,7 +8,7 @@
     - 🌠 Contribute more to <i>Open-source</i>.
     - 🌌 Guide new folks about <i>Open-source</i> and <i>Cyber-security</i>.
 - 📫 How to reach me: 
-  - <i> Twitter, LinkedIn, Discord </i>, just ping me (username: kabir0x23).
+  - <i> (Twitter)[https://twitter.com/kabir0x23], (LinkedIn)[https://www.linkedin.com/in/kabir0x23/], (Discord)[] </i>, just ping me (username: kabir0x23).
 - ⚡ Fun fact: I love to Build, Hack, and Secure.
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
