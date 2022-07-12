@@ -61,11 +61,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/CryptoverseWeb3/Support/issues/5) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
-2. ❗️ Opened issue [#5](https://github.com/CryptoverseWeb3/Support/issues/5) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
-3. ❗️ Closed issue [#3](https://github.com/CryptoverseWeb3/Support/issues/3) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
-4. ❗️ Closed issue [#2](https://github.com/CryptoverseWeb3/Support/issues/2) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
-5. ❗️ Opened issue [#2](https://github.com/CryptoverseWeb3/Support/issues/2) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
+1. ❗️ Closed issue [#26](https://github.com/CryptoverseWeb3/Cryptoverse/issues/26) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+2. 🎉 Merged PR [#27](https://github.com/CryptoverseWeb3/Cryptoverse/pull/27) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+3. ❗️ Closed issue [#5](https://github.com/CryptoverseWeb3/Support/issues/5) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
+4. ❗️ Opened issue [#5](https://github.com/CryptoverseWeb3/Support/issues/5) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
+5. ❗️ Closed issue [#3](https://github.com/CryptoverseWeb3/Support/issues/3) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
 <!--END_SECTION:activity-->
 
 ---
