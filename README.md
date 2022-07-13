@@ -22,9 +22,9 @@ I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Ja
 - [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
   - Cryptocurrency / Crypto Details / Crypto News App.
 - [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
-  - Community website for CryptoverseWeb3 Community
+  - @CryptoverseWeb3 community website.
 - [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
-  - Community website of @thecyberworld community. Hub of cyber-security resources and much more.
+  - @Thecyberworld community website. Hub of cyber-security resources and much more.
 
 ---
 
