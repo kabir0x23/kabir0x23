@@ -1,34 +1,39 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
-![Kabir](images/kabir0x23.png "Kabir0x23")
+![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
 - 🔭 I’m Founder of
   - <b>[Thecyberworld](https://github.com/thecyberworld) Community and </b>
   - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) Community.</b> 
-- 💬 Ask me about <i>Cyber-security</i>, <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
+- 💬 Ask me about <i>DevOps</i>, <i>Open Source </i>, <i>Web-dev</i>, and <i>Programming</i>, <i>Cyber-security</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
-    - 🌌 Guide new folks about <i>Open-source</i> and <i>Cyber-security</i>. <!-- 📫 How to reach me:   - <i> Twitter, LinkedIn, Discord </i>, just ping me (username: kabir0x23). -->
+    - 🌌 Help new folks to get into <i>Open-source</i> and <i>Cyber-security</i>.
 - ⚡ Fun fact: I love to Build, Hack, and Secure.
 <!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
 ---
 
+<!-- 
+### Achievements, Awards and Recognition
+---
+-->
+
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
 </h3>
   <a href="https://twitter.com/kabir0x23">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kabir0x23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://www.instagram.com/kabir0x23">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://linktree.com/kabir0x23">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+    <img src="https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
   <a href="http://kabir0x23.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" >
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
   </a>
 </div>
 
@@ -67,162 +72,6 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 4. 🗣 Commented on [#2](https://github.com/thecyberworld/support/issues/2) in [thecyberworld/support](https://github.com/thecyberworld/support)
 5. 🗣 Commented on [#1](https://github.com/thecyberworld/support/issues/1) in [thecyberworld/support](https://github.com/thecyberworld/support)
 <!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <h2> 🌌 Communities: </h2>
-</div>
-
-<div style="float: left; flex: auto">
-<a href="https://www.linktree.com/thecyberworld">
-<img src="images/Logo_theCyberworld.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;">
-</a>
-</div> 
-<h3> Thecyberworld Community:</h3>
-
-- We help new folks to get into <b> Cyber-security</b> field.
-- We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
-- Guided more than 20k folks to get into <b> Cyber-security</b>.
-- <b> Open-source</b> projects.
-
-<p align="center"> 
-<b>Website:</b>
-<br>
-  <a href="https://thecyberhub.org">
-    <img src="https://img.shields.io/badge/Thecyberhub.org-000000?style=for-the-badge&logo=code&logoColor=white">
-  </a>
-</p>
-<p align="center">
-Join the <b> community </b> from here 👇
-<br>
-  <a href="https://github.com/thecyberworld">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a> 
-  <a href="https://discord.gg/QHBPq6xP5p">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  <a href="https://t.me/thecyberw0rld">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-We <i> create content </i> on <b>social media</b>.
-<br>
-   <a href="https://twitter.com/thecyberw0rld">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/thecyberw0rld">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
-   <a href="https://www.linkedin.com/company/thecyberw0rld/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://www.youtube.com/c/thecyberworld?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-
-<!--
-  <a href="https://linktree.com/thecyberworld">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-<a href="https://linktree.com/thecyberworld">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
--->
-</p>
-
-<details>
-   <summary> 
-      <h4> 
-        Latest YouTube videos 👇 
-      </h4>
-   </summary>
-
-<!-- THECYBERWORLD-YOUTUBE-VIDEOS-LIST:START -->
-- [Anonymous tools](https://www.youtube.com/watch?v=fBnYJR4F2Sw)
-- [Kali Linux Tools - Part 1](https://www.youtube.com/watch?v=1fxlLmuOlTw)
-- [Privacy 0 - 100%](https://www.youtube.com/watch?v=klimIwTRZ4g)
-- [Top Social Sites For Programmer](https://www.youtube.com/watch?v=vaFFdqf4jE8)
-- [How Hackers can hack you bank account](https://www.youtube.com/watch?v=ub4kcehi9o8)
-<!-- THECYBERWORLD-YOUTUBE-VIDEOS-LIST:END -->
-
-</details>
-
----
-
-<div style="float: left;">
-<a href="https://www.linktree.com/cryptoverseWeb3">
-
-<img src="images/logo_ethereum.png" width="40" height="40" style="border-radius:20%; margin: 10px 10px 0 0;">
-</a>
-</div>
-<h3>  Cryptoverse Web3 Community: </h3>
-
-- We help new folks to get into <b> Web3 </b> field.
-- We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
-- <b> Open-source</b> projects.
-
-<p align="center"> 
-<b>Official Website:</b>
-<br>
-  <a href="https://www.cryptoverseweb3.com">
-    <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <b>Community Website:</b>
-  <br>
-  <a href="https://community.cryptoverseweb3.com">
-    <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
-  </a>
-</p>
-<p align="center">
-Join the <b> community </b> from here 👇
-<br>
-  <a href="https://github.com/CryptoverseWeb3">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a> 
-  <a href="https://discord.gg/WhDry9FWE7">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  <a href="https://t.me/CryptoverseWeb3">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-We create <i> Educational</i> content on <b>social media</b>.
-<br>
-   <a href="https://twitter.com/CryptoverseWeb3">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/CryptoverseWeb3">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
-   <a href="https://www.linkedin.com/company/CryptoverseWeb3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://www.youtube.com/c/thecyberworld?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</p>
-
-<details>
-   <summary> 
-      <h4> 
-        Latest YouTube videos 👇 
-      </h4>
-   </summary>
-
-<!-- CRYPTOVERSEWEB3-YOUTUBE-VIDEOS-LIST:START -->
-<!-- CRYPTOVERSEWEB3-YOUTUBE-VIDEOS-LIST:END -->
-
-</details>
-
-<!-- 
-### Achievements, Awards and Recognition
--->
 
 ---
 
