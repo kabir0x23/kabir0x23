@@ -4,7 +4,7 @@
 I am currently working on **open-source** projects,  communities [CryptoverseWeb3](https://github.com/CryptoverseWeb3/), [Thecyberworld](https://github.com/thecyberworld/) where people can contribute and get started with their open-source journey.
 Communities goal is to help new folks to get started with open-source and to help existing folks get more involved in the open-source communities.
 
-We do post technical blogs and tutorials on our [blog](https://kabir0x23.github.io/) and on communities blog sites.
+We do post technical blogs and tutorials on our [blog](https://kabir0x23.github.io/) and on communities blog site.
 Blogs are a great way to learn about open-source and to share your knowledge with the community.
 
 My goal is for the coming months is to contribute more to open-source and help new folks to get into <i>open-source</i> and <i>cyber-security</i>. 
@@ -62,28 +62,45 @@ Here are some of the <b>open-source</b> projects I am working on:
 
 ---
 
-<h3> My Latest Blog Posts: </h3> 
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
-<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><strong>Linux File System (something new in short)</strong></a>
-<br/> In Linux, Everything is a file! 
-included devices, directories, network sockets, and so on.
+[//]: # ()
+[//]: # (<h3> My Latest Blog Posts: </h3> )
 
+[//]: # (<!-- HASHNODE_BLOG:START -->)
 
-bin: - Binaries or programs.
-boot: - This includes all the files related to booting.
-dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+[//]: # (<p align="left">)
 
-<div align="center">
-    More blogs: <br>
-    <a href="https://kabir0x23.hashnode.dev">
-        <img src="https://img.shields.io/badge/HASHNODE-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
-    </a>
-</div>
+[//]: # (<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System &#40;something new in short&#41;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System &#40;something new in short&#41;" width="250px" align="left" /></a>)
 
----
+[//]: # (<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System &#40;something new in short&#41;"><strong>Linux File System &#40;something new in short&#41;</strong></a>)
+
+[//]: # (<br/> In Linux, Everything is a file! )
+
+[//]: # (included devices, directories, network sockets, and so on.)
+
+[//]: # ()
+[//]: # ()
+[//]: # (bin: - Binaries or programs.)
+
+[//]: # (boot: - This includes all the files related to booting.)
+
+[//]: # (dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>)
+
+[//]: # (<!-- HASHNODE_BLOG:END -->)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # (    More blogs: <br>)
+
+[//]: # (    <a href="https://kabir0x23.hashnode.dev">)
+
+[//]: # (        <img src="https://img.shields.io/badge/HASHNODE-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">)
+
+[//]: # (    </a>)
+
+[//]: # (</div>)
+
+[//]: # (---)
 
 [//]: # (### :zap: Recent Activity)
 [//]: # (<!--START_SECTION:activity-->)
