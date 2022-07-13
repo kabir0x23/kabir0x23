@@ -39,11 +39,8 @@ Things I am familiar with:
 
 <div style="display: flex">
 <div style="width: 48%">
-    <h3> My Latest Blog Posts: </h3> 
-</div>
-
-<div align="end" style="width: 48%;">
-    <a href="https://kabir0x23.hashnode.dev">
+    My Latest Blog Posts: </h3> 
+    <a href="https://kabir0x23.hashnode.dev" style="padding: 30px">
         <img style="margin-top: 20px" src="https://img.shields.io/badge/more blogs-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
     </a>
 </div>
