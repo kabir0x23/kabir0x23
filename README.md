@@ -37,18 +37,8 @@ Things I am familiar with:
 
 ---
 
-<div style="display: flex">
-<div style="width: 48%">
-    <h3> My Latest Blog Posts: </h3> 
-</div>
-
-<div align="end" style="width: 48%;">
-    <a href="https://kabir0x23.hashnode.dev">
-        <img style="margin-top: 20px" src="https://img.shields.io/badge/more blogs-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
-    </a>
-</div>
-
-</div>
+<div> 
+<h3> My Latest Blog Posts: </h3>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
@@ -62,6 +52,10 @@ boot: - This includes all the files related to booting.
 dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+<a href="https://kabir0x23.hashnode.dev">
+    <img style="margin-top: 20px" src="https://img.shields.io/badge/more blogs-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
+</a>
+</div>
 
 ---
 
