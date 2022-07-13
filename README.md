@@ -28,6 +28,22 @@ I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Ja
 
 ---
 
+### My Latest Blog Posts:
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
+<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><strong>Linux File System (something new in short)</strong></a>
+<br/> In Linux, Everything is a file! 
+included devices, directories, network sockets, and so on.
+
+
+bin: - Binaries or programs.
+boot: - This includes all the files related to booting.
+dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+
+---
+
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
 </h3>
@@ -47,24 +63,6 @@ I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Ja
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
   </a>
 </div>
-
----
-
-### My Latest Blog Posts
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
-<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><strong>Linux File System (something new in short)</strong></a>
-<br/> In Linux, Everything is a file! 
-included devices, directories, network sockets, and so on.
-
-
-bin: - Binaries or programs.
-boot: - This includes all the files related to booting.
-dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
----
 
 ---
 
