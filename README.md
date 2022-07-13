@@ -50,10 +50,21 @@ I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Ja
 
 ---
 
-<h3> My Latest Blog Posts: </h3>
+### My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
+<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><strong>Linux File System (something new in short)</strong></a>
+<br/> In Linux, Everything is a file! 
+included devices, directories, network sockets, and so on.
 
+
+bin: - Binaries or programs.
+boot: - This includes all the files related to booting.
+dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+
+---
 
 ---
 
