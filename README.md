@@ -1,21 +1,19 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
-- 🔭 I’m Founder of
-  - <b>[Thecyberworld](https://github.com/thecyberworld) Community and </b>
-  - <b>[CryptoverseWeb3](https://github.com/cryptoverseWeb3) Community.</b> 
-- 💬 Ask me about <i>DevOps</i>, <i>Open Source </i>, <i>Web-dev</i>, and <i>Programming</i>, <i>Cyber-security</i>.
-- 🥅 My Goal for the coming months is to:
-    - 🌠 Contribute more to <i>Open-source</i>.
-    - 🌌 Help new folks to get into <i>Open-source</i> and <i>Cyber-security</i>.
-- ⚡ Fun fact: I love to Build, Hack, and Secure.
-<!-- - 🌱 I’m currently learning DevOps and MERN Stack. -->
 
----
+I am currently working on open-source communities [CryptoverseWeb3](github.com/thecyberworld/), [thecyberworld](github.com/thecyberworld/) My goal is for the coming months is to contribute more to open-source and help new folks to get into <i>open-source</i> and <i>cyber-security</i>. I like to do automation with python and bash. I love to build, contribute, hack, and Secure.
 
 <!-- 
 ### Achievements, Awards and Recognition
----
 -->
+
+Things I am familiar with:
+- HTML CSS JavaScript and React.
+- Python, Go, YAML, Bash and Java.
+- DevOps: Docker and Kubernetes.
+- Web App Penetration Testing.
+
+---
 
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
