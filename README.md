@@ -6,11 +6,35 @@ Communities goal is to help new folks to get started with open-source and to hel
 
 My goal is for the coming months is to contribute more to open-source and help new folks to get into <i>open-source</i> and <i>cyber-security</i>. I like to do automation with python and bash. I love to build, contribute, hack, and Secure.
 
+<h4>
+<p align="center">
+Here are some of the <b>open-source</b> projects I am working on:
+</p>
+</h4>
+
+
+[//]: # (<p align="center">)
+[//]: # (Want to contribute it? Want some green squares? <br>)
+[//]: # (must read <code>CONTRIBUTING.md</code>)
+[//]: # (before you start.)
+[//]: # (</p>)
+
+- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
+  - A Blockchain based web3 application. Provides Secure transactions with Low fee.
+- [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+  - Cryptocurrency / Crypto Details / Crypto News App.
+- [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
+  - Community website for CryptoverseWeb3 Community
+- [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+  - Community website of @thecyberworld community. Hub of cyber-security resources and much more.
+
+---
+
 <!-- 
 ### Achievements, Awards and Recognition
 -->
 
->   #### I am familiar with:
+>   ### I am familiar with:
 - HTML CSS JavaScript and React.
 - Python, Go, YAML, Bash and Java.
 - DevOps: Docker and Kubernetes.
