@@ -14,12 +14,16 @@ Things I am familiar with:
 - Web App Penetration Testing.
 
 ---
-
+<h3>
 <p align="center">
 Looking for projects to do contribute to? Want some green squares?
-<br>
-Here are some of open-source projects I am working on:
 </p>
+</h3>
+<h4>
+<p align="center">
+Here are some of <b>open-source</b> projects I am working on:
+</p>
+</h4>
 
 - [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
     - A Blockchain based web3 application. Provides Secure transactions with Low fee.
