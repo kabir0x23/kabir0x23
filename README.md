@@ -39,7 +39,7 @@ Things I am familiar with:
 
 <div> 
 <h3> My Latest Blog Posts: 
-<a href="https://kabir0x23.hashnode.dev" style="margin: 150px">
+<a href="https://kabir0x23.hashnode.dev" style="margin: 1500px">
     <img style="margin-top: 20px" src="https://img.shields.io/badge/more blogs-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
 </a></h3>
 
