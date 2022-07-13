@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
 ![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
 
-I am currently working on open-source communities [CryptoverseWeb3](https://github.com/CryptoverseWeb3/), [thecyberworld](https://github.com/thecyberworld/). My goal is for the coming months is to contribute more to open-source and help new folks to get into <i>open-source</i> and <i>cyber-security</i>. I like to do automation with python and bash. I love to build, contribute, hack, and Secure.
+I am currently working on **open-source** communities [CryptoverseWeb3](https://github.com/CryptoverseWeb3/), [thecyberworld](https://github.com/thecyberworld/). My goal is for the coming months is to contribute more to open-source and help new folks to get into <i>open-source</i> and <i>cyber-security</i>. I like to do automation with python and bash. I love to build, contribute, hack, and Secure.
 
 <!-- 
 ### Achievements, Awards and Recognition
@@ -12,6 +12,23 @@ Things I am familiar with:
 - Python, Go, YAML, Bash and Java.
 - DevOps: Docker and Kubernetes.
 - Web App Penetration Testing.
+
+---
+
+<p align="center">
+Looking for projects to do contribute to? Want some green squares?
+<br>
+Here are some of open-source projects I am working on:
+</p>
+
+- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
+    - A Blockchain based web3 application. Provides Secure transactions with Low fee.
+- [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+    - Cryptocurrency / Crypto Details / Crypto News App.
+- [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
+    - Community webstie for CryptoverseWeb3 Community
+- [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+    - Community website of @thecyberworld community. Hub of cyber-security resources and much more.
 
 ---
 
@@ -34,6 +51,26 @@ Things I am familiar with:
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
   </a>
 </div>
+
+---
+
+<p align="center">
+
+Looking for projects to do contributions? Want some green squares?
+</p>
+
+<p align="center">
+Here are some of open-source projects I am working on:
+</p>
+
+- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
+    - A Blockchain based web3 application. Provides Secure transactions with Low fee.
+- [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+    - Cryptocurrency / Crypto Details / Crypto News App.
+- [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
+    - Community webstie for CryptoverseWeb3 Community
+- [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
+    - Community website of @thecyberworld community. Hub of cyber-security resources and much more.
 
 ---
 
