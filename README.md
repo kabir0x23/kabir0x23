@@ -7,23 +7,15 @@ Communities goal is to help new folks to get started with open-source and to hel
 I do post technical blogs and tutorials on our [blog](https://kabir0x23.github.io/) and on communities blog site.
 Blogs are a great way to learn about open-source and to share your knowledge with the community.
 
-
 My goal is for the coming months is to contribute more to open-source and help new folks to get into <i>open-source</i> and <i>cyber-security</i>. 
 
 I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Java; DevOps: Docker and Kubernetes; APIs; Web App Penetration Testing;
 
 <h4>
-<p align="center">
-Here are some of the <b>open-source</b> projects I am working on:
-</p>
+  <p align="center">
+    Here are some of the <b>open-source</b> projects I am working on:
+  </p>
 </h4>
-
-
-[//]: # (<p align="center">)
-[//]: # (Want to contribute it? Want some green squares? <br>)
-[//]: # (must read <code>CONTRIBUTING.md</code>)
-[//]: # (before you start.)
-[//]: # (</p>)
 
 - [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
   - A Blockchain based web3 application. Provides Secure transactions with Low fee.
@@ -35,11 +27,6 @@ Here are some of the <b>open-source</b> projects I am working on:
   - Community website of @thecyberworld community. Hub of cyber-security resources and much more.
 
 ---
-
-<!-- 
-### Achievements, Awards and Recognition
--->
-
 
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
@@ -63,42 +50,31 @@ Here are some of the <b>open-source</b> projects I am working on:
 
 ---
 
-[//]: # ()
-[//]: # (<h3> My Latest Blog Posts: </h3> )
+<h3> My Latest Blog Posts: </h3> 
 
-[//]: # (<!-- HASHNODE_BLOG:START -->)
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
-[//]: # (<p align="left">)
+---
 
-[//]: # (<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System &#40;something new in short&#41;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System &#40;something new in short&#41;" width="250px" align="left" /></a>)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x23&count_private=true&theme=dark&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
+</p>
 
-[//]: # (<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System &#40;something new in short&#41;"><strong>Linux File System &#40;something new in short&#41;</strong></a>)
+<p align = "center">
+ <img width="98.4%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">
+</p>  
 
-[//]: # (<br/> In Linux, Everything is a file! )
+[//]: # (-----------------------)
 
-[//]: # (included devices, directories, network sockets, and so on.)
+[//]: # (Extra stuff that can be used in the future)
 
-[//]: # ()
-[//]: # ()
-[//]: # (bin: - Binaries or programs.)
-
-[//]: # (boot: - This includes all the files related to booting.)
-
-[//]: # (dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>)
-
-[//]: # (<!-- HASHNODE_BLOG:END -->)
-
-[//]: # ()
 [//]: # (<div align="center">)
-
 [//]: # (    More blogs: <br>)
-
 [//]: # (    <a href="https://kabir0x23.hashnode.dev">)
-
 [//]: # (        <img src="https://img.shields.io/badge/HASHNODE-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">)
-
 [//]: # (    </a>)
-
 [//]: # (</div>)
 
 [//]: # (---)
@@ -109,11 +85,6 @@ Here are some of the <b>open-source</b> projects I am working on:
 
 [//]: # (---)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x23&count_private=true&theme=dark&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
-</p>
+[//]: # (### Achievements, Awards and Recognition)
 
-<p align = "center">
- <img width="98.4%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">
-</p>  
+[//]: # (The End)
