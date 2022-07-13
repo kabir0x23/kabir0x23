@@ -98,5 +98,5 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 </p>
 
 <p align = "center">
- <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">
+ <img width="98.4%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">
 </p>  
