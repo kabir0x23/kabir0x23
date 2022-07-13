@@ -31,17 +31,15 @@ I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Ja
 ### My Latest Blog Posts:
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657520658035/JWiW1xUts5.png" alt="Getting started with Conventional Commits" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><strong>Getting started with Conventional Commits</strong></a>
-<br/> So, what is a Conventional Commit?
-Conventional Commits is a lightweight convention on top of commit messages. In simple, pre-fix the commit messages with some sets of pre-defined rules. It makes commit self-explanatory what type of commit it is.
-Syn... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//community-in-diversity" title="CommUNITY In Diversity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652784120046/yKxa9IWWM.png" alt="CommUNITY In Diversity" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//community-in-diversity" title="CommUNITY In Diversity"><strong>CommUNITY In Diversity</strong></a>
-<br/> 👥 So what is a community?
-A community is a group of people who share an identity-forming narrative and UNITE together to help each other out. 
-Eg: Eddiehub - An inclusive community that is spreading literacy about the Open Source and, helping beginn... </p> <br/> <br/>
+<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657718026777/QvAZW-pIl.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
+<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><strong>Linux File System (something new in short)</strong></a>
+<br/> In Linux, Everything is a file! 
+included devices, directories, network sockets, and so on.
+
+
+bin: - Binaries or programs.
+boot: - This includes all the files related to booting.
+dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
