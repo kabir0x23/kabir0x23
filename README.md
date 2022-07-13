@@ -58,26 +58,6 @@ Here are some of <b>open-source</b> projects I am working on:
 
 ---
 
-<p align="center">
-
-Looking for projects to do contributions? Want some green squares?
-</p>
-
-<p align="center">
-Here are some of open-source projects I am working on:
-</p>
-
-- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
-    - A Blockchain based web3 application. Provides Secure transactions with Low fee.
-- [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
-    - Cryptocurrency / Crypto Details / Crypto News App.
-- [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
-    - Community webstie for CryptoverseWeb3 Community
-- [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
-    - Community website of @thecyberworld community. Hub of cyber-security resources and much more.
-
----
-
 <h3> My Latest Blog Posts: </h3>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
