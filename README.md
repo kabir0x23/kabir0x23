@@ -58,15 +58,7 @@ Here are some of <b>open-source</b> projects I am working on:
 
 ---
 
-<div style="display: flex">
-<div style="width: 48%">
 <h3> My Latest Blog Posts: </h3> 
-</div>
-<div style="width: 48%">
-<br>
-<a>click here for blogs</a>
-</div>
-</div>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655740718562/9fxtKT_Zy.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
