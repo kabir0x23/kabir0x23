@@ -50,9 +50,9 @@ I am familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Ja
 
 ---
 
-<h3> My Latest Blog Posts: </h3> 
-
+<h3> My Latest Blog Posts: </h3>
 <!-- HASHNODE_BLOG:START -->
+
 <!-- HASHNODE_BLOG:END -->
 
 ---
