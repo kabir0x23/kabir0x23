@@ -61,11 +61,11 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/thecyberworld/support/issues/3) in [thecyberworld/support](https://github.com/thecyberworld/support)
-2. 🗣 Commented on [#3](https://github.com/thecyberworld/support/issues/3) in [thecyberworld/support](https://github.com/thecyberworld/support)
-3. ❗️ Closed issue [#2](https://github.com/thecyberworld/support/issues/2) in [thecyberworld/support](https://github.com/thecyberworld/support)
-4. 🗣 Commented on [#2](https://github.com/thecyberworld/support/issues/2) in [thecyberworld/support](https://github.com/thecyberworld/support)
-5. 🗣 Commented on [#1](https://github.com/thecyberworld/support/issues/1) in [thecyberworld/support](https://github.com/thecyberworld/support)
+1. ❗️ Opened issue [#205](https://github.com/dev-protocol/community/issues/205) in [dev-protocol/community](https://github.com/dev-protocol/community)
+2. ❗️ Opened issue [#268](https://github.com/WebXDAO/start-here/issues/268) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
+3. ❗️ Closed issue [#3](https://github.com/thecyberworld/support/issues/3) in [thecyberworld/support](https://github.com/thecyberworld/support)
+4. 🗣 Commented on [#3](https://github.com/thecyberworld/support/issues/3) in [thecyberworld/support](https://github.com/thecyberworld/support)
+5. ❗️ Closed issue [#2](https://github.com/thecyberworld/support/issues/2) in [thecyberworld/support](https://github.com/thecyberworld/support)
 <!--END_SECTION:activity-->
 
 ---
