@@ -52,9 +52,11 @@ boot: - This includes all the files related to booting.
 dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<a href="https://kabir0x23.hashnode.dev">
-    <img style="margin-top: 20px" src="https://img.shields.io/badge/more blogs-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
-</a>
+<div style="margin-top: -70px">
+    <a href="https://kabir0x23.hashnode.dev">
+        <img src="https://img.shields.io/badge/more blogs-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">
+    </a>
+</div>
 </div>
 
 ---
