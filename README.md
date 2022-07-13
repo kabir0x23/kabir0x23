@@ -10,7 +10,7 @@ My goal is for the coming months is to contribute more to open-source and help n
 ### Achievements, Awards and Recognition
 -->
 
-#### I am familiar with:
+>   #### I am familiar with:
 - HTML CSS JavaScript and React.
 - Python, Go, YAML, Bash and Java.
 - DevOps: Docker and Kubernetes.
@@ -22,6 +22,7 @@ My goal is for the coming months is to contribute more to open-source and help n
 Here are some of the <b>open-source</b> projects I am working on:
 </p>
 </h4>
+
 
 [//]: # (<p align="center">)
 [//]: # (Want to contribute it? Want some green squares? <br>)
