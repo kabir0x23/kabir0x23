@@ -8,6 +8,13 @@ These are a great ways to learn about open-source and to share your knowledge wi
 Goal is for the coming months is to contribute more to open-source and help new folks to get into open-source  and cyber-security. <br>
 Familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Java; DevOps: Docker and Kubernetes; APIs; Web App Penetration Testing;
 
+<div align="center">
+  <h3> Open Source communities </h3>
+    <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> |
+    <a href="https://github.com/thecyberworld">Thecyberworld</a>
+</div>
+
+
 <h3>
   <p align="center">
     Here are some of the <b>open-source</b> projects:
