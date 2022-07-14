@@ -14,10 +14,10 @@ Familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Java; D
   </p>
 </h3>
 
-- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
-  - A Blockchain based web3 application. Provides Secure transactions with Low fee.
 - [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
   - Cryptocurrency / Crypto Details / Crypto News App.
+- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
+  - A Blockchain based web3 application. Provides Secure transactions with Low fee.
 - [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
   - @CryptoverseWeb3 community website.
 - [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
