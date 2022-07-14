@@ -4,10 +4,8 @@
 Currently, working on **open-source** projects,  communities, where people can contribute and get started with their open-source journey.
 Community's goal is to help new folks to get started with open-source and to help existing folks get more involved in the open-source communities. 
 Creating technical content, blogs and tutorials for community.
-These are a great ways to learn about open-source and to share your knowledge with the community.
-
-Goal is for the coming months is to contribute more to open-source and help new folks to get into open-source  and cyber-security. 
-
+These are a great ways to learn about open-source and to share your knowledge with the community. <br>
+Goal is for the coming months is to contribute more to open-source and help new folks to get into open-source  and cyber-security. <br>
 Familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Java; DevOps: Docker and Kubernetes; APIs; Web App Penetration Testing;
 
 <h3>
