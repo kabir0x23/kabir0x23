@@ -81,6 +81,17 @@ dev: Devices - Files that are needed to access devices are stored in th... </p> 
 
 [//]: # (-----------------------)
 
+
+<!-- <div align="center">
+  <h3> Open Source communities </h3>
+  <a href="https://twitter.com/kabir0x23">
+    <img src="https://img.shields.io/badge/CryptoverseWeb3-0D1117?style=for-the-badge&logo=ethereum&logoColor=f2753d">
+  </a>
+  <a href="https://www.linkedin.com/in/kabir0x23/">
+    <img src="https://img.shields.io/badge/Thecyberworld-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white">
+  </a> 
+</div> -->
+
 [//]: # (Extra stuff that can be used in the future)
 
 [//]: # (<div align="center">)
