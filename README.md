@@ -10,8 +10,8 @@ Familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Java; D
 
 <div align="center">
   <h3> Open Source communities </h3>
-    <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> |
-    <a href="https://github.com/thecyberworld">Thecyberworld</a>
+  <b> <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> |
+    <a href="https://github.com/thecyberworld">Thecyberworld</a> </b>
 </div>
 
 
