@@ -30,8 +30,9 @@ Familiar with: HTML CSS JavaScript and React; Python, Go, YAML, Bash and Java; D
 - [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
   - @Thecyberworld community website. Hub of cyber-security resources and much more.
 - [Port scanner](https://github.com/thecyberworld/port-scanner)
-  - A fast port scanner written in python with a focus on reliability and simplicity.
-
+  - A fast port scanner written in Python with a focus on reliability and simplicity.
+- [git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
+  - If you are new to Git and GitHub: A practice project to learn git and github.
 ---
 
 ### My Latest Blog Posts:
