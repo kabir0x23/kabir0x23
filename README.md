@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
+### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/Portfolio//">Kabir</a>!</h1>
 ![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
 
 Currently, working on **open-source** projects,  communities, where people can contribute and get started with their open-source journey.
