@@ -7,8 +7,9 @@ The community's goal is to help new folks get started with open-source and to he
 Creating technical content, blogs, and tutorials for the community.
 These are great ways to learn about open-source and to share your knowledge with the community.
 The goal for the coming months is to contribute more to open-source and help new folks to get into open-source and cyber-security. <br>
-Familiar with: DevOps: Docker and Kubernetes; Python, Go, YAML, Bash, and Java; HTML CSS JavaScript and React;  APIs; Web App Penetration Testing.
-
+Familiar with: DevOps: Docker and Kubernetes; Python, Go, YAML, Bash, and Java; Git GitHub, Linux, Computer Networks; Web: HTML CSS JavaScript and React;  APIs; Web App Penetration Testing.
+Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Java • Git GitHub, Linux, Computer Networks • Web: HTML CSS JavaScript and React •  APIs • Web App Penetration Testing.
+•
 <div align="center">
   <h3> Open Source communities </h3>
   <b> <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> |
