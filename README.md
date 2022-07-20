@@ -2,7 +2,7 @@
 
 ![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
 
-Currently, working on **open-source** projects,  and communities, where people can contribute and get started with their open-source journey.
+Working on **open-source** projects,  and communities, where people can contribute and get started with their open-source journey.
 The community's goal is to help new folks get started with open-source and to help existing folks get more involved in the open-source communities. 
 Creating technical content, blogs, and tutorials for the community.
 These are great ways to learn about open-source and to share your knowledge with the community.
