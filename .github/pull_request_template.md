@@ -34,7 +34,7 @@ Correct ways to mark a box:
 ---
 
 ### Code of Conduct
-- [ ] By submitting this pull request, I confirm I've read and complied with the [CoC](https://github.com/kabir0x23/Portfolio/blob/main/CODE_OF_CONDUCT.md) 🖖
+- [ ] By submitting this pull request, I confirm I've read and complied with the [CoC](https://github.com/kabir0x23/kabir0x23/blob/main/CODE_OF_CONDUCT.md) 🖖
 
 ---
 
