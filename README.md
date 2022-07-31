@@ -34,6 +34,9 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
   - A practice project to learn Git and GitHub.
 - [NewsFlash](https://github.com/kabir0x23/NewsFlash)
   - NewsFlash is a static News website.
+- [Movie-land](https://github.com/kabir0x23/Movie-land)
+  - Movie-land is api based website that is used to search for movies, and display the results. 
+
 ---
 
 ### My Latest Blog Posts:
