@@ -32,7 +32,8 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
   - A fast port scanner is written in Python with a focus on reliability and simplicity.
 - [git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
   - A practice project to learn Git and GitHub.
-
+- [NewsFlash](https://github.com/kabir0x23/NewsFlash)
+  - NewsFlash is a static News website.
 ---
 
 ### My Latest Blog Posts:
