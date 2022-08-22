@@ -11,7 +11,7 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
 
 <div align="center">
   <h3> Open Source communities </h3>
-  <b> <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> | <a href="https://github.com/thecyberworld">Thecyberworld</a> </b>
+  <b> <a href="https://github.com/thecyberworld">Thecyberworld</a> | <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> </b>
 </div>
 
 <h3>
