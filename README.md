@@ -52,6 +52,13 @@ included devices, directories, network sockets, and so on.
 bin: - Binaries or programs.
 boot: - This includes all the files related to booting.
 dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
+<p align="left">
+<a href="https://kabir0x23.hashnode.dev//what-is-docker" title="What is Docker?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661578777173/Jq_GJ0_lN.png" alt="What is Docker?" width="250px" align="left" /></a>
+<a href="https://kabir0x23.hashnode.dev//what-is-docker" title="What is Docker?"><strong>What is Docker?</strong></a>
+<br/> A platform for building, running, and shipping applications in a consistent manner.
+If your application works on the development machine, in the same way it will work on other machines.
+It works on my machine!
+most of the time our applications do not... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
