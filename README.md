@@ -32,13 +32,12 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
   - A Blockchain-based web3 application. Provides Secure transactions with a Low fee.
 - [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
   - @CryptoverseWeb3 community website.
-- [git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
-  - A practice project to learn Git and GitHub.
 - [NewsFlash](https://github.com/kabir0x23/NewsFlash)
   - NewsFlash is a static News website.
 - [Movie-land](https://github.com/kabir0x23/Movie-land)
   - Movie-land is api based website that is used to search for movies, and display the results. 
-
+- [git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
+  - A practice project to learn Git and GitHub.
 ---
 
 ### My Latest Blog Posts:
