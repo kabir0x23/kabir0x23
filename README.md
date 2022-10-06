@@ -22,12 +22,19 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
 
 - [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
   - @Thecyberworld community website. Hub of cyber-security resources and much more.
+- [Thecyberhub App](https://github.com/thecyberworld/thecyberhub-app)
+  - Thecyberhub app of @thecyberworld community.
+- [thecyberbot discord](https://github.com/thecyberworld/thecyberbot-discord)
+  - @Thecyberworld community website. Hub of cyber-security resources and much more.
 - [Port scanner](https://github.com/thecyberworld/port-scanner)
   - A fast port scanner, written in Python with a focus on reliability and simplicity.
 - [Subdomain finder](  https://github.com/thecyberworld/subdomain-finder)
-  - A subdomain finder, written in Python with a focus on reliability and simplicity.  
+  - A subdomain finder, written in Python with a focus on reliability and simplicity. 
+  
 - [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
   - Cryptocurrency / Crypto Details / Crypto News App.
+- [NFT-app](https://github.com/CryptoverseWeb3/NFT-appg)
+  - NFTs Market App.
 - [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
   - A Blockchain-based web3 application. Provides Secure transactions with a Low fee.
 - [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
