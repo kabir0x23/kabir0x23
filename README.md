@@ -29,8 +29,7 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
 - [Port scanner](https://github.com/thecyberworld/port-scanner)
   - A fast port scanner, written in Python with a focus on reliability and simplicity.
 - [Subdomain finder](  https://github.com/thecyberworld/subdomain-finder)
-  - A subdomain finder, written in Python with a focus on reliability and simplicity. 
-  
+  - A subdomain finder, written in Python with a focus on reliability and simplicity.
 - [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
   - Cryptocurrency / Crypto Details / Crypto News App.
 - [NFT-app](https://github.com/CryptoverseWeb3/NFT-appg)
