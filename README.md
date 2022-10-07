@@ -26,6 +26,8 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
   - Thecyberhub app of @thecyberworld community.
 - [thecyberbot discord](https://github.com/thecyberworld/thecyberbot-discord)
   - @Thecyberworld community website. Hub of cyber-security resources and much more.
+- [ThecyberX](https://github.com/thecyberworld/ThecyberX)
+  - Cyber security web extension
 - [Port scanner](https://github.com/thecyberworld/port-scanner)
   - A fast port scanner, written in Python with a focus on reliability and simplicity.
 - [Subdomain finder](  https://github.com/thecyberworld/subdomain-finder)
