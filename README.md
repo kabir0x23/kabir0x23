@@ -14,6 +14,10 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
   <b> <a href="https://github.com/thecyberworld">Thecyberworld</a> | <a href="https://github.com/CryptoverseWeb3">CryptoverseWeb3</a> </b>
 </div>
 
+<br/>
+<br/>
+
+<!-- 
 <h3>
   <p align="center">
     Here are some of the <b>open-source</b> projects:
@@ -46,7 +50,7 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
   - Movie-land is api based website that is used to search for movies, and display the results. 
 - [git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
   - A practice project to learn Git and GitHub.
----
+--- -->
 
 ### My Latest Blog Posts:
 
