@@ -2,12 +2,8 @@
 
 ![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
 
-Working on **open-source** projects,  and communities, where people can contribute and get started with their open-source journey.
-The community's goal is to help new folks get started with open-source and to help existing folks get more involved in the open-source communities. 
-Creating technical content, blogs, and tutorials for the community.
-These are great ways to learn about open-source and to share your knowledge with the community.
-The goal for the coming months is to contribute more to open-source and help new folks to get into open-source and cyber-security. <br>
-Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Java • Git GitHub, Linux, Computer Networks • Web: HTML CSS JavaScript and React •  APIs • Cyber Security: Web App Penetration Testing.
+Working on **Opensource** projects,  and communities, where people can contribute and get started with their Opensource and Cybersecurity journey.
+The community's goal is to help new folks get started with Opensource and Cybersecurity, and to help existing folks get more involved in the Opensource communities. The goal for the coming months is to contribute more to Opensource and help new folks to get into Opensource and Cybersecurity.
 
 <div align="center">
   <h3> Open Source communities </h3>
@@ -15,64 +11,20 @@ Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Jav
 </div>
 
 <br/>
+
+### # Skills: 
+- Cyber Security:
+  - Web App Penetration Testing.
+- DevOps: 
+  - Docker and Kubernetes 
+- Languages:
+  - Python, Go, YAML, Bash, and Java.
+- Web: 
+  - HTML CSS JavaScript, React, and APIs.
+- Other: 
+  - Git n GitHub, Linux, Computer Networks. 
+
 <br/>
-
-<!-- 
-<h3>
-  <p align="center">
-    Here are some of the <b>open-source</b> projects:
-  </p>
-</h3>
-
-- [Thecyberhub.org](https://github.com/thecyberworld/Thecyberhub.org)
-  - @Thecyberworld community website. Hub of cyber-security resources and much more.
-- [Thecyberhub App](https://github.com/thecyberworld/thecyberhub-app)
-  - Thecyberhub app of @thecyberworld community.
-- [thecyberbot discord](https://github.com/thecyberworld/thecyberbot-discord)
-  - @Thecyberworld community website. Hub of cyber-security resources and much more.
-- [ThecyberX](https://github.com/thecyberworld/ThecyberX)
-  - Cyber security web extension
-- [Port scanner](https://github.com/thecyberworld/port-scanner)
-  - A fast port scanner, written in Python with a focus on reliability and simplicity.
-- [Subdomain finder](  https://github.com/thecyberworld/subdomain-finder)
-  - A subdomain finder, written in Python with a focus on reliability and simplicity.
-- [Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
-  - Cryptocurrency / Crypto Details / Crypto News App.
-- [NFT-app](https://github.com/CryptoverseWeb3/NFT-appg)
-  - NFTs Market App.
-- [CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
-  - A Blockchain-based web3 application. Provides Secure transactions with a Low fee.
-- [Community.CryptoverseWeb3](https://github.com/CryptoverseWeb3/Community.CryptoverseWeb3)
-  - @CryptoverseWeb3 community website.
-- [NewsFlash](https://github.com/kabir0x23/NewsFlash)
-  - NewsFlash is a static News website.
-- [Movie-land](https://github.com/kabir0x23/Movie-land)
-  - Movie-land is api based website that is used to search for movies, and display the results. 
-- [git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
-  - A practice project to learn Git and GitHub.
---- -->
-
-### My Latest Blog Posts:
-
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657718026777/QvAZW-pIl.png" alt="Linux File System (something new in short)" width="250px" align="left" /></a>
-<a href="https://kabir0x23.hashnode.dev//linux-file-system-something-new-in-short" title="Linux File System (something new in short)"><strong>Linux File System (something new in short)</strong></a>
-<br/> In Linux, Everything is a file! 
-included devices, directories, network sockets, and so on.
-
-
-bin: - Binaries or programs.
-boot: - This includes all the files related to booting.
-dev: Devices - Files that are needed to access devices are stored in th... </p> <br/> <br/>
-<p align="left">
-<a href="https://kabir0x23.hashnode.dev//what-is-docker" title="What is Docker?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661578777173/Jq_GJ0_lN.png" alt="What is Docker?" width="250px" align="left" /></a>
-<a href="https://kabir0x23.hashnode.dev//what-is-docker" title="What is Docker?"><strong>What is Docker?</strong></a>
-<br/> A platform for building, running, and shipping applications in a consistent manner.
-If your application works on the development machine, in the same way it will work on other machines.
-It works on my machine!
-most of the time our applications do not... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
 
 ---
 
@@ -103,38 +55,11 @@ most of the time our applications do not... </p> <br/> <br/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
 </p>
 
-[//]: # (<p align = "center">)
- [//]: # (<img width="98.4%" src="https://activity-graph.herokuapp.com/graph?username=kabir0x23&theme=xcode">)
-[//]: # (</p>)
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-[//]: # (-----------------------)
-
-<!-- <div align="center">
-  <h3> Open Source communities </h3>
-  <a href="https://twitter.com/kabir0x23">
-    <img src="https://img.shields.io/badge/CryptoverseWeb3-0D1117?style=for-the-badge&logo=ethereum&logoColor=f2753d">
-  </a>
-  <a href="https://www.linkedin.com/in/kabir0x23/">
-    <img src="https://img.shields.io/badge/Thecyberworld-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white">
-  </a> 
-</div> -->
-
-[//]: # (Extra stuff that can be used in the future)
-
-[//]: # (<div align="center">)
-[//]: # (    More blogs: <br>)
-[//]: # (    <a href="https://kabir0x23.hashnode.dev">)
-[//]: # (        <img src="https://img.shields.io/badge/HASHNODE-0D1117?style=for-the-badge&logo=hashnode&logoColor=white">)
-[//]: # (    </a>)
-[//]: # (</div>)
-
-[//]: # (---)
-
-[//]: # (### :zap: Recent Activity)
-[//]: # (<!--START_SECTION:activity-->)
-[//]: # (<!--END_SECTION:activity-->)
-
-[//]: # (---)
+<!-- --- -->
 
 [//]: # (### Achievements, Awards and Recognition)
 
