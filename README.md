@@ -18,7 +18,7 @@ The community's goal is to help new folks get started with Opensource and Cybers
 - DevOps: 
   - Docker and Kubernetes 
 - Languages:
-  - Python, Go, YAML, Bash, and Java.
+  - Python, Go, Bash, YAML, and Java.
 - Web: 
   - HTML CSS JavaScript, React, and APIs.
 - Other: 
