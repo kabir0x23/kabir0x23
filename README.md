@@ -28,6 +28,12 @@ The community's goal is to help new folks get started with Opensource and Cybers
 
 ---
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
 </h3>
@@ -54,10 +60,6 @@ The community's goal is to help new folks get started with Opensource and Cybers
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x23&count_private=true&theme=dark&show_icons=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
 </p>
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!-- --- -->
 
