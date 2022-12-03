@@ -30,11 +30,11 @@ The community's goal is to help new folks get started with Opensource and Cybers
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/thecyberworld/thecyberhub.org/issues/290) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-2. 🗣 Commented on [#290](https://github.com/thecyberworld/thecyberhub.org/issues/290) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+1. 🗣 Commented on [#272](https://github.com/thecyberworld/thecyberhub.org/issues/272) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+2. 🗣 Commented on [#272](https://github.com/thecyberworld/thecyberhub.org/issues/272) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 3. 🗣 Commented on [#290](https://github.com/thecyberworld/thecyberhub.org/issues/290) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-4. 🎉 Merged PR [#312](https://github.com/thecyberworld/thecyberhub.org/pull/312) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-5. 💪 Opened PR [#312](https://github.com/thecyberworld/thecyberhub.org/pull/312) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+4. 🗣 Commented on [#290](https://github.com/thecyberworld/thecyberhub.org/issues/290) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+5. 🗣 Commented on [#290](https://github.com/thecyberworld/thecyberhub.org/issues/290) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
