@@ -30,11 +30,11 @@ The community's goal is to help new folks get started with Opensource and Cybers
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#316](https://github.com/thecyberworld/thecyberhub.org/pull/316) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-2. 🎉 Merged PR [#315](https://github.com/thecyberworld/thecyberhub.org/pull/315) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-3. 💪 Opened PR [#315](https://github.com/thecyberworld/thecyberhub.org/pull/315) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-4. ❗️ Opened issue [#314](https://github.com/thecyberworld/thecyberhub.org/issues/314) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-5. ❗️ Closed issue [#290](https://github.com/thecyberworld/thecyberhub.org/issues/290) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+1. 🎉 Merged PR [#318](https://github.com/thecyberworld/thecyberhub.org/pull/318) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+2. 💪 Opened PR [#318](https://github.com/thecyberworld/thecyberhub.org/pull/318) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+3. 🎉 Merged PR [#317](https://github.com/thecyberworld/thecyberhub.org/pull/317) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+4. 💪 Opened PR [#317](https://github.com/thecyberworld/thecyberhub.org/pull/317) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+5. ❗️ Closed issue [#314](https://github.com/thecyberworld/thecyberhub.org/issues/314) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
