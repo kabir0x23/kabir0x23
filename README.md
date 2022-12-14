@@ -9,7 +9,13 @@
 </p>
 <div align="center">
   <h3> Opensource Cybersecurity Community </h3>
-  <h4> <a href="https://github.com/thecyberworld"><img src="https://user-images.githubusercontent.com/44284877/207346937-5c82dfeb-e46d-4d0c-8a8a-d5e87387910a.png" width="22" height="20"/>Thecyberworld Community</a> </h4>
+  <h4> 
+    <img src="https://user-images.githubusercontent.com/44284877/207346937-5c82dfeb-e46d-4d0c-8a8a-d5e87387910a.png" width="22" height="20"/>
+    <a href="https://github.com/thecyberworld">
+      <img src="https://img.shields.io/badge/Thecyberworld Community-0d1117">
+    </a>
+  </h4>
+
 </div>
 
 <br/>
@@ -52,12 +58,12 @@
   <a href="https://www.instagram.com/kabir0x23">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://kabir0x23.medium.com">
+<!--   <a href="https://kabir0x23.medium.com">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://linktree.com/kabir0x23">
+  </a> -->
+<!--   <a href="https://linktree.com/kabir0x23">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
+  </a> -->
  
 <!--   <a href="http://kabir0x23.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
