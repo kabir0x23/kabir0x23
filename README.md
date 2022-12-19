@@ -40,7 +40,7 @@
 <div align="center">
   // Hacker Profiles // <br/> <br/>
   <a href="https://tryhackme.com/p/kabir0x23"> 
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kabir0x23.png" alt="TryHackMe"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kabir0x23.png" alt="TryHackMe">
   </a>
 </div>
 
