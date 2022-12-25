@@ -23,6 +23,7 @@
 ### # Skills: 
 - Cyber Security:
   - Web App Penetration Testing.
+  - Mobile App Penetration Testing.
   - OWASP Top 10.
   - Tools: Burpsuite, Nmap...
 - DevOps: 
