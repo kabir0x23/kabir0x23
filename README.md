@@ -25,7 +25,8 @@
   - Web App Penetration Testing.
   - Mobile App Penetration Testing.
   - OWASP Top 10.
-  - Tools: Burpsuite, Nmap...
+  - Tools: Burpsuite, Nmap ...
+  - Blue Team: Wireshark, Snort, Splunk ... 
 - DevOps: 
   - Docker and Kubernetes 
 - Languages:
