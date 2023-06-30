@@ -21,20 +21,17 @@
 <br/>
 
 ### # Skills: 
-- Cyber Security:
-  - Web App Penetration Testing.
-  - Mobile App Penetration Testing.
-  - OWASP Top 10.
-  - Tools: Burpsuite, Nmap ...
-  - Blue Team: Wireshark, Snort, Splunk ... 
-- DevOps: 
-  - Docker and Kubernetes 
-- Languages:
-  - Python, Go, Bash, YAML, and Java.
-- Web: 
-  - HTML CSS JavaScript, React, and APIs.
-- Other: 
-  - Git n GitHub, Linux, Computer Networks. 
+- Security & tools
+  - Web, API, Network, Mobile Pentesting
+  - BurpSuite Pro, Zap
+  - Blue Team: Snort, Splunk, Wireshark
+- DevSecOps:
+  - Docker, Kubernetes, YAML, Git and GitHub
+  - Dast, Sast
+  - Snyk, BurpSuite Enterprise
+- Languages
+  - Python, Javascript, Bash
+
 
 <br/>
 
