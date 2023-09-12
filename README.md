@@ -21,7 +21,7 @@
 
 ### # Skills: 
 - Security & tools
-  - Web, API, Network, Mobile Pentesting
+  - Web, API, Network Pentesting
   - BurpSuite Pro, Zap
   - Blue Team: Snort, Splunk, Wireshark
 - DevSecOps:
@@ -29,8 +29,7 @@
   - Dast, Sast
   - Snyk, BurpSuite Enterprise
 - Languages
-  - Python, Javascript, Bash
-
+  - Python, Go, Javascript, Bash
 
 <br/>
 
