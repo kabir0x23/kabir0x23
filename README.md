@@ -84,6 +84,8 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=kabir0x23&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 [//]: # (The End)
 
 ---
