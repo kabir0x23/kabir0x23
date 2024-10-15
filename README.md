@@ -11,8 +11,8 @@
   <h3> Opensource Cybersecurity Community </h3>
   <h4> 
     <img src="https://user-images.githubusercontent.com/44284877/207346937-5c82dfeb-e46d-4d0c-8a8a-d5e87387910a.png" width="22" height="20"/>
-    <a href="https://github.com/thecyberworld">
-      <img src="https://img.shields.io/badge/Thecyberworld Community-0d1117">
+    <a href="https://github.com/th3cyb3rhub">
+      <img src="https://img.shields.io/badge/TheCyberHUB Community-0d1117">
     </a>
   </h4>
 </div>
@@ -20,16 +20,35 @@
 <br/>
 
 ### # Skills: 
-- Security & tools
-  - Web, API, Network Pentesting
-  - BurpSuite Pro, Zap
-  - Blue Team: Snort, Splunk, Wireshark
-- DevSecOps:
-  - Docker, Kubernetes, YAML, Git and GitHub
-  - Dast, Sast
-  - Snyk, BurpSuite Enterprise
-- Languages
-  - Python, Go, Javascript, Bash
+```js
+const skills = {
+  security: {
+    pentesting: [
+      "Web PenTesting", "API PenTesting", "Network PenTesting"
+    ],
+    tools: [
+      "BurpSuite Pro", "Zap"
+    ],
+    blueTeam: [
+      "Snort", "Splunk", "Wireshark"
+    ]
+  },
+  devSecOps: {
+    tools: [
+      "Docker", "Kubernetes", "YAML", "Git", "GitHub"
+    ],
+    testing: [
+      "DAST", "SAST"
+    ],
+    securityTools: [
+      "Snyk", "BurpSuite Enterprise"
+    ]
+  },
+  languages: [
+    "Python", "Go", "JavaScript", "Bash"
+  ]
+};
+```
 
 <br/>
 
