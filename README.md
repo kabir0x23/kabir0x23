@@ -26,29 +26,38 @@
 const skills = {
   security: {
     pentesting: [
-      "Web PenTesting", "API PenTesting", "Network PenTesting"
+      "Web PenTesting", "API PenTesting", "Network PenTesting", "Cloud PenTesting"
     ],
+    owaspTop10: true,
     tools: [
-      "BurpSuite Pro", "Zap"
+      "BurpSuite Pro", "BurpSuite Enterprise", "Zap OWASP", "Snyk"
     ],
     blueTeam: [
       "Snort", "Splunk", "Wireshark"
+    ],
+    cloudAndWebSecurity: [
+      "Akamai WAF", "Cloudflare", "AWS", "GCP", "Azure"
     ]
   },
   devSecOps: {
     tools: [
-      "Docker", "Kubernetes", "YAML", "Git", "GitHub"
+      "Docker", "Kubernetes", "GitOps", "Git", "GitHub"
     ],
     testing: [
       "DAST", "SAST"
-    ],
-    securityTools: [
-      "Snyk", "BurpSuite Enterprise"
     ]
   },
   languages: [
-    "Python", "Go", "JavaScript", "Bash"
-  ]
+    "Python", "Go", "JavaScript", "Bash", "Java"
+  ],
+  webDevelopment: {
+    mernStack: [
+      "MongoDB", "ExpressJS", "ReactJS", "NodeJS"
+    ],
+    pythonFrameworks: [
+      "FastAPI", "Flask"
+    ]
+  }
 };
 ```
 
